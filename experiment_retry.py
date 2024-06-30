@@ -112,5 +112,5 @@ print('Number of rules followed: ', rules_followed)
 print('1st rule followed ', first)
 print('2nd rule followed ', second)
 print('3rd rule followed ', third)
-print('Example exists in data: ', in_data)
+print('Example exists in data: ', in_data) 
       
