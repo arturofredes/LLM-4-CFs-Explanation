@@ -35,3 +35,6 @@ In this notebook we train a model to predict whether a person will earn more or 
 
 ## Experiments Notebook
 In here all the code and results for the experiments are included.
+
+## German Credit Notebook
+In thos notebook we preprocessed data of the german credit dataset, trained a classifier and generated explanations from some selected cases that will be shown to subjects.
