@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+workclass == 'Self-Employed' or workclass == 'Private',5,1
+education == 'Doctorate' or education == 'Some-college' or education == 'School',5,1
+marital_status == 'Divorced' or marital_status == 'Married',5,1
+race == 'White' or race == 'Other',5,1
+"hours_per_week in [40, 12, 25, 3]",5,0

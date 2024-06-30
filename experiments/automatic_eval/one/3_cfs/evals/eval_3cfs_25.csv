@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+"Workclass: Being employed in a ""Private"" sector leads to higher income.",3,1
+"Occupation: Being in a ""Professional"" occupation is associated with higher income.",2,1
+Hours per Week: A slight reduction in hours per week from 60 to 57 can lead to a higher income when other conditions are met.,1,0
+Marital Status: Being widowed with the same education and occupation can also lead to a higher income.,1,0

@@ -1,0 +1,11 @@
+Rule,Importance,In explanation
+Increasing the education level to at least 'Prof-school',5,1
+Changing marital status to 'Separated' or 'Married',2,0
+Changing occupation from 'Blue-Collar' to 'Service',1,0
+"Increasing the number of hours worked per week significantly (e.g., to 71 or 88 hours)",2,0
+Higher education (Doctorate) leads to higher income,4,0
+Occupations in Sales and Professional lead to higher income,2,1
+Increased hours per week can contribute to higher income,2,0
+"If education is 'Some-college', change to 'Doctorate', 'Masters', or 'Prof-school'",5,1
+"If marital status is 'Divorced', change to 'Married' or 'Single'",3,0
+Changing the number of working hours per week can impact the income prediction,5,0

@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+Education Level: Education changes to Doctorate,3,1
+Workclass: Workclass changes to Other/Unknown or Government,3,1
+Hours Per Week: Flexible range of working hours,3,1
+"Age: Younger age (e.g., 29)",1,1

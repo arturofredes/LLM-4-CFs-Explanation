@@ -1,0 +1,3 @@
+Rule,Importance,In explanation
+"If a person increases their education level from 'HS-grad' to 'Masters' or 'Doctorate', their likelihood of earning more than $50k increases.",1,1
+"If a person changes their workclass from 'Private' to 'Self-Employed' or 'Government', their likelihood of earning more than $50k increases.",1,1

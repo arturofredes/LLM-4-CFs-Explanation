@@ -1,0 +1,11 @@
+Rule,Importance,In explanation
+workclass == 'Government',5,0
+"hours_per_week in [18, 52, 55, 75, 98]",5,0
+workclass == 'Government',3,0
+occupation == 'Professional',1,0
+education == 'Doctorate',1,0
+gender == 'Male',1,0
+"hours_per_week in [18, 52, 55, 75, 98]",2,0
+workclass == 'Government',3,0
+education == 'Doctorate',2,0
+occupation == 'White-Collar',1,0

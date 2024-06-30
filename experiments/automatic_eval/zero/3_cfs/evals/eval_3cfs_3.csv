@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+"If Gender is Male, the likelihood of earning more than $50,000 increases.",3,1
+"If Hours per Week exceeds 40 (specifically around 61 or 89), the likelihood of earning more than $50,000 increases.",2,1
+"If Age is significantly higher (e.g., 87 years), the likelihood of earning more than $50,000 increases.",1,0

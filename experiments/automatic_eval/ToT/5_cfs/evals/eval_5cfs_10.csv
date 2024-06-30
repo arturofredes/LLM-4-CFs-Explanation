@@ -1,0 +1,11 @@
+Rule,Importance,In explanation
+A higher level of education is correlated with a positive income outcome.,4,1
+Certain marital statuses are correlated with a positive income outcome.,5,0
+Being self-employed may positively influence income.,1,0
+"Higher education levels (Prof-school, Doctorate, Bachelors) lead to higher income.",5,0
+Marital status such as being 'Widowed' or 'Married' leads to higher income compared to being 'Single'.,2,0
+"Having a variety of occupations within the same workclass, especially including 'Service', leads to higher income.",1,0
+"Fewer hours per week (e.g., 30) may lead to higher income if associated with higher efficiency or specialized roles.",1,0
+"Having a 'Prof-school' level of education significantly increases the chances of earning more than $50,000 a year compared to having 'Some-college' education.",5,0
+Certain types of occupations (especially 'Sales' and 'White-Collar') are more likely to lead to higher income.,3,0
+Working in less common or unspecified work classes might also increase the chances of higher earnings.,5,0

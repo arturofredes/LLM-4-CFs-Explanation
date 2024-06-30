@@ -1,0 +1,14 @@
+Rule,Importance,In explanation
+"Increasing the number of hours worked per week significantly (e.g., to 63 or 99 hours)",2,0
+Switching from Private sector employment to Government employment or becoming Self-Employed,3,1
+Obtaining a higher level of education (Doctorate),2,1
+"Being older (e.g., 56 years)",1,0
+Changing race from White to Other,1,0
+"Being ""Widowed"" or ""Married"" rather than ""Divorced""",2,0
+"Having a ""Doctorate"" degree",1,1
+"Older individuals (e.g., 75 or 89 years old)",2,0
+"A slight reduction in work hours (e.g., from 40 to 35 hours per week)",1,0
+"Individuals aged 24 or younger, or 73 or older, have a higher likelihood of earning more than $50k",3,0
+Increasing working hours to 57 per week,1,0
+Attaining a Professional School (Prof-school) level of education,1,0
+Working in the Government sector,1,1

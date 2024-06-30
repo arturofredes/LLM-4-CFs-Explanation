@@ -1,0 +1,3 @@
+Rule,Importance,In explanation
+education == 'Doctorate',4,1
+race == 'White',4,1

@@ -1,0 +1,8 @@
+Rule,Importance,In explanation
+Higher levels of education (like professional school) or specific combinations of education level and other factors can lead to a positive income prediction.,12,0
+Having a professional occupation significantly increases the chances of earning more than $50k a year.,11,1
+"While 20 hours per week alone resulted in a negative outcome, combining it with a professional occupation or other favorable attributes can lead to a positive outcome. However, increasing the hours per week to around 39 also leads to a positive outcome if other attributes remain the same.",10,1
+"Gender alone is not a determining factor for a positive income prediction, but being male or combining female gender with other favorable attributes (like professional occupation) can lead to a positive outcome.",6,0
+"Age alone is not a decisive factor, but older ages in combination with other favorable attributes can lead to a positive outcome.",10,0
+Being self-employed or working in certain occupations such as Professional and White-Collar are associated with higher incomes compared to working in 'Other/Unknown' occupations.,4,1
+"The marital status being married is consistent across all cases, suggesting it might not be a significant factor for income prediction in this scenario.",10,1

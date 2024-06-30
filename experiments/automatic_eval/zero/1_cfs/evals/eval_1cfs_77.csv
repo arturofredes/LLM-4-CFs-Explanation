@@ -1,0 +1,3 @@
+Rule,Importance,Column,Value,In explanation
+If education level is 'Prof-school',1,education,Prof-school,1
+If occupation changes from 'Blue-Collar' to 'Other/Unknown',1,occupation,Other/Unknown,1

@@ -1,0 +1,8 @@
+Rule,Importance,In explanation
+"Achieving a higher education level than 'HS-grad' (e.g., Bachelors, Masters, Prof-school, or Doctorate) increases the likelihood of earning more than $50k per year.",14,1
+Changing occupation from 'Blue-Collar' to a more professional or specialized occupation can increase the likelihood of earning more than $50k per year.,4,1
+"Increasing the number of hours worked per week (e.g., from 40 to 63 or 94) can increase the likelihood of earning more than $50k per year.",2,1
+"Although changing race is not feasible, this observation might indicate that other factors correlated with race (such as discrimination, network, and access to opportunities) could be impacting the income prediction.",3,0
+Changing the workclass from 'Private' to 'Government' employment can increase the likelihood of earning more than $50k per year.,1,1
+"Different ages, including older individuals (49, 55, 82), can still achieve higher income with the right combination of other factors such as education and occupation.",0,1
+"Being divorced instead of married might also contribute to a higher income, as seen in one of the counterfactual cases.",1,0

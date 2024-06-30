@@ -1,0 +1,10 @@
+Rule,Importance,In explanation
+If the education level is upgraded from 'Assoc' to 'Prof-school',1,0
+If the education level is upgraded from 'Assoc' to 'Doctorate',1,0
+If the education level is upgraded from 'Assoc' to 'Masters',1,1
+If the gender is changed from 'Male' to 'Female',1,0
+If the hours_per_week are reduced from 42 to 27,1,0
+"Higher education (Bachelors, Doctorate) leads to higher income",3,0
+"Increasing the number of working hours per week (e.g., from 42 to 46) leads to higher income",1,1
+Transitioning from self-employed to private employment leads to higher income,1,1
+If the age is decreased from 58 to 41,1,0

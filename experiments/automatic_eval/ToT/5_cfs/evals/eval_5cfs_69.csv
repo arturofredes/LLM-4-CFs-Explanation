@@ -1,0 +1,17 @@
+Rule,Importance,In explanation
+"If the education level is 'Doctorate' or 'Bachelors', the income prediction is more likely to be greater than $50k.",3,0
+"If the marital status changes from 'Married' to 'Divorced', the income prediction is more likely to be greater than $50k.",1,0
+"If the occupation changes from 'Blue-Collar' to 'Service' or 'White-Collar', the income prediction is more likely to be greater than $50k.",2,0
+"If the work hours per week increase significantly (e.g., from 40 to 94), the income prediction is more likely to be greater than $50k.",1,0
+"If the work hours per week decrease significantly (e.g., from 40 to 8) and the individual is 'Self-Employed', the income prediction is more likely to be greater than $50k.",1,0
+"If the workclass changes from 'Private' to 'Self-Employed', the income prediction is more likely to be greater than $50k.",2,0
+"Higher education (Doctorate, Masters) leads to higher income.",2,1
+Being self-employed leads to higher income.,3,0
+"Working more hours per week (e.g., 91 hours) leads to higher income.",1,0
+Employment in government leads to higher income.,1,1
+Occupation type alone may not strongly influence income.,0,0
+Individuals with 'Bachelors' or 'Prof-school' education levels are more likely to earn more than $50k.,2,0
+Individuals in 'White-Collar' or 'Professional' occupations are more likely to earn more than $50k.,2,1
+Being male is associated with a higher likelihood of earning more than $50k.,1,0
+Working significantly more than the standard 40 hours per week increases the likelihood of earning more than $50k.,1,0
+Being 'Self-Employed' or working in the 'Government' sector is associated with earning more than $50k.,3,0

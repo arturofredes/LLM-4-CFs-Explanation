@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+"If gender changes from Male to Female, the likelihood of earning more than $50K increases.",5,1
+"If age decreases from 63 to a younger age (e.g., 45 or 48), the likelihood of earning more than $50K increases.",2,1
+"Hours per week can vary significantly (10 to 60) and still result in earning more than $50K, indicating other factors may have a stronger influence.",5,1

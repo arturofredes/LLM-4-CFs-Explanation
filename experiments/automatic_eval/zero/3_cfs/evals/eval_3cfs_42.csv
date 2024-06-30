@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+Change marital status from 'Single' to 'Widowed',2,0
+"Increase hours per week significantly (e.g., from 40 to 93 hours)",1,0
+Change workclass from 'Self-Employed' to 'Private',1,1
+Change education level from 'Bachelors' to 'HS-grad',1,0

@@ -1,0 +1,14 @@
+Rule,Importance,In explanation
+Gender Rule: Changing gender from male to female might lead to a positive outcome.,3,0
+"Hours Per Week Rule: Reducing working hours from 60 to a lower number (e.g., 48 or 50) might lead to a positive outcome.",2,1
+Education Rule: Increasing the education level from 'School' to 'Bachelors' or 'Assoc' might lead to a positive outcome.,2,0
+Occupation Rule: Changing the occupation from 'Blue-Collar' to 'White-Collar' might lead to a positive outcome.,1,0
+Workclass Rule: Changing the workclass from 'Self-Employed' to 'Government' might lead to a positive outcome.,1,1
+"Higher education (Some-college, Prof-school) leads to higher income.",3,0
+Different marital statuses (Separated) can lead to higher income.,1,0
+Gender being Female can lead to higher income.,2,0
+Occupation in Sales can lead to higher income.,1,0
+Higher hours per week can lead to higher income.,1,0
+Occupation Rule: Having a different or higher occupation classification such as 'Doctorate' or 'Other/Unknown' can lead to a positive income prediction.,1,0
+Education Rule: Higher education levels such as 'Doctorate' or 'Masters' are associated with a positive income prediction.,2,1
+Hours per Week Rule: Working significantly more hours per week can affect income positively.,1,0

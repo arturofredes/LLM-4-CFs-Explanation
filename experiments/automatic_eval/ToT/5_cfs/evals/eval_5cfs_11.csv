@@ -1,0 +1,7 @@
+Rule,Importance,In explanation
+"Older age (e.g., 54 or 78) is associated with higher income.",2,0
+Higher education levels (Doctorate) are associated with higher income.,2,1
+Marital status of married or separated over divorced is associated with higher income.,2,1
+Race attribute changing from White to Other can be associated with a higher income.,2,0
+Gender changing from female to male can be associated with higher income.,1,0
+"Increasing hours worked per week (e.g., from 40 to 50) is associated with higher income.",1,0

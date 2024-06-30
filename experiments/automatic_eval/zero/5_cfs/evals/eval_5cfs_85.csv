@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+Transitioning from a Blue-Collar occupation to a White-Collar or Professional occupation increases the likelihood of earning more than $50k a year.,5,1
+"Higher education levels such as Prof-school (Professional school) increase the likelihood of earning more than $50k a year. Even within the same education level (Assoc), changing the occupation to White-Collar seems to have a positive impact.",5,1
+"While the same number of hours per week (42) appears in both negative and positive outcomes, there are instances where either very low (1 hour) or higher (50 hours) work hours also result in positive outcomes. This might suggest that the range of acceptable work hours can vary, but specific conditions (e.g., occupation type) play a significant role.",5,1
+"The race attribute alone does not appear to be a decisive factor since positive outcomes are observed for both White and Other races. This indicates that other factors, such as occupation and education, are more influential.",5,1
+"Age alone does not seem to be a limiting factor, as positive outcomes are observed for both middle-aged (58) and older (83) individuals. This suggests that other factors (e.g., occupation, education) are more critical in determining income.",5,1

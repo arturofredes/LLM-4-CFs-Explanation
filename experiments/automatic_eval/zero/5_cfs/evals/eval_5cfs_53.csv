@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+"Being Self-Employed or having a varied workclass (e.g., Other/Unknown)",2,1
+"Higher education levels (e.g., Doctorate, Prof-school)",3,1
+"Occupations in Sales or diverse fields (e.g., Other/Unknown)",3,0
+"Working significantly more hours per week (e.g., 77 hours)",1,0
+"Having a varied racial background (e.g., Other)",1,0

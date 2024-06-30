@@ -1,0 +1,3 @@
+Rule,Importance,In explanation
+"If an individual's education level is ""Bachelors"" (Negative Outcome), changing this to ""Some-college"" can result in a positive income prediction (>50k $).",1,0
+"If an individual's marital status is ""Married"" (Negative Outcome), changing this to ""Separated"" can result in a positive income prediction (>50k $).",1,0

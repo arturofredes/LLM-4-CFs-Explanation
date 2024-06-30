@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+Workclass Changes: From Private to Other/Unknown,1,0
+Workclass Changes: From Private to Self-Employed,1,0
+Education Level: From HS-grad to Prof-school,2,0
+Education Level: From HS-grad to Bachelors,1,0
+Marital Status: From Single to Divorced,1,0

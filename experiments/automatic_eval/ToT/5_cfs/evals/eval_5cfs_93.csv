@@ -1,0 +1,8 @@
+Rule,Importance,In explanation
+"If `marital_status` is ""Married"", then the likelihood of earning more than $50k increases.",5,1
+"If `education` is ""Doctorate"", then the likelihood of earning more than $50k increases.",3,1
+"If `age` is higher (around 39), then the likelihood of earning more than $50k increases.",1,0
+"If `occupation` is ""Other/Unknown"" or ""Sales"", then the likelihood of earning more than $50k increases.",1,0
+Being male leads to higher income.,1,0
+Both higher and lower than average hours worked can lead to higher income.,2,1
+"If a person is Self-Employed instead of working in the Government sector, their income is predicted to be more than $50k.",1,1

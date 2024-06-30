@@ -1,0 +1,12 @@
+Rule,Importance,In explanation
+"Higher Education Level (Masters, Doctorate)",4,1
+"Workclass (Government, Self-Employed)",2,1
+"High-Status Occupation (White-Collar, Professional)",2,1
+Age Factor (Higher age with advanced education),1,0
+"Higher education (Masters, Doctorate)",4,1
+Occupations in Sales and Professional roles,3,1
+Being self-employed,1,0
+Slight Age Increase,1,0
+Marital Status: Getting married,1,0
+Occupation Shift,1,0
+Work Hours,1,0

@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+"Higher Education Levels (Prof-school, Bachelors, Doctorate)",4,1
+"Marital Status (Married, Widowed)",2,1
+Occupation (White-Collar),1,1
+Race (Other),1,0
+"Older Age (e.g., 88)",1,0

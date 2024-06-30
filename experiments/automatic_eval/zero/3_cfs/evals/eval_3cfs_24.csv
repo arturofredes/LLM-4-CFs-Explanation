@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+"Higher education levels, such as a Master's degree or professional school degree, significantly increase the likelihood of earning more than $50k a year.",3,0
+Marital status can influence the prediction. Being 'Separated' instead of 'Single' seems to be associated with a higher likelihood of earning more than $50k.,2,0
+Occupation type can influence income predictions. Working in 'Sales' rather than a Blue-Collar job can contribute to a higher predicted income.,1,0

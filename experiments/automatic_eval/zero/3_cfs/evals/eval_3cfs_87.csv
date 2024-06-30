@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+Marital Status Change: 3 counterfactual(s) consistent,3,1
+Occupation Change to Sales: 1 counterfactual(s) consistent,1,1
+Workclass Change to Government: 1 counterfactual(s) consistent,1,1

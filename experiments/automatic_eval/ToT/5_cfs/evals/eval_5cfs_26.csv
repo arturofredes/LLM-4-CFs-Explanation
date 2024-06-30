@@ -1,0 +1,12 @@
+Rule,Importance,In explanation
+Education Level (Masters or Prof-school),4,1
+Education Level (Assoc),1,0
+Marital Status (Separated or Widowed),2,0
+Occupation (Sales),1,1
+Workclass (Other/Unknown),1,0
+Hours Per Week (36 or 37),5,1
+"Higher Education (Prof-school, Masters, Bachelors)",5,1
+"Marital Status (Married, Separated)",3,0
+"Higher Education (Prof-school, Masters, Doctorate)",5,1
+Marital Status (Married or Divorced),2,0
+Hours per Week (55.0 or 30.0),2,0

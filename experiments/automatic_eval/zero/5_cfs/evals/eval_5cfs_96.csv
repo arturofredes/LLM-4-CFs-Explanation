@@ -1,0 +1,7 @@
+Rule,Importance,In explanation
+Education: Increasing education level to Doctorate or Assoc.,3,1
+Marital Status: Changing marital status to Married or Divorced.,2,1
+Occupation: Transitioning to Professional or Service occupation.,2,1
+Workclass and Gender: Changing workclass to Government and gender to Female.,2,1
+Work Hours: Increasing work hours to 91 per week.,1,0
+Race: Changing race to White.,1,1

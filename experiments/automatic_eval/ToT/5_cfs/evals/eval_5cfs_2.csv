@@ -1,0 +1,11 @@
+Rule,Importance,In explanation
+A person working more hours per week is more likely to earn more than $50k.,1,1
+Higher education levels increase the likelihood of earning more than $50k.,4,1
+"Being divorced, married, or separated is associated with earning more than $50k.",3,0
+Working for the government might increase the likelihood of earning more than $50k.,2,1
+Being Married or Divorced (as opposed to Single) leads to a higher income.,4,0
+Being older (age around 42 or higher) is associated with a higher income compared to being younger.,3,0
+Being Male leads to a higher income compared to being Female.,1,0
+"Working fewer hours per week (e.g., 18 hours) can still lead to a higher income.",1,0
+Increasing the number of hours worked per week can significantly increase the likelihood of earning more than $50k a year.,1,1
+Transitioning to a White-Collar job can also lead to a higher income likelihood.,1,0

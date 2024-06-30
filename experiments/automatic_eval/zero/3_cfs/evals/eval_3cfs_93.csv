@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+"Education Level: Higher levels of education (Doctorate, Assoc) are associated with a positive income prediction.",1,1
+Marital Status: Being married is associated with a positive income prediction.,1,1
+"Age: Higher age (e.g., 35 years) is associated with a positive income prediction.",1,1
+"Occupation: Certain occupations like 'Sales' may be associated with a positive income prediction, although professional roles remain significant when combined with other factors.",0,0

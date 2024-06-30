@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+Changing the education level from 'HS-grad' to 'Doctorate' results in a positive income outcome.,1,1
+Changing the workclass from 'Other/Unknown' to 'Private' results in a positive income outcome.,1,1
+Changing the occupation from 'Other/Unknown' to 'White-Collar' results in a positive income outcome.,1,1

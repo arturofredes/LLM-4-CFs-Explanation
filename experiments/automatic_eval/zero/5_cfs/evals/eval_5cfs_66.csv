@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+"Higher education levels, such as 'Prof-school' or 'Bachelors'",3,1
+Being 'Widowed' or 'Married' as opposed to 'Single',3,1
+Being of a different race such as 'Other',1,0
+'Other/Unknown' workclass,1,0

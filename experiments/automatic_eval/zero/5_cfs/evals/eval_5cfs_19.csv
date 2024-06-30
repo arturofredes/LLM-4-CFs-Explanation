@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+Gender Rule,3,1
+Marital Status Rule,2,1
+Occupation Rule,2,1
+Age Rule,2,0
+Workclass Rule,1,1

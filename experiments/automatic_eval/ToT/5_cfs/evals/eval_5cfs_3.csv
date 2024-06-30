@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+"Gender Rule: If the gender changes from Female to Male, then the income prediction changes from 0 to 1.",3,0
+"Marital Status Rule: If the marital status changes from Widowed to Married, then the income prediction changes from 0 to 1.",2,0
+"Hours Per Week Rule: If the hours per week worked significantly increase (e.g., from 40 to 50 or more), then the income prediction changes from 0 to 1.",2,1
+"Age Rule: If the age is significantly higher (e.g., from 46 to 67), then the income prediction changes from 0 to 1.",1,0

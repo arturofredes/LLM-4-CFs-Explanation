@@ -1,0 +1,3 @@
+Rule,Importance,In explanation
+"If a person changes their workclass from ""Other/Unknown"" to ""Private"", their likelihood of earning more than $50k/year increases.",1,1
+"If a person changes their occupation from ""Other/Unknown"" to ""Professional"", their likelihood of earning more than $50k/year increases.",1,1

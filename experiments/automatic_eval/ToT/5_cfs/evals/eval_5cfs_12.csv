@@ -1,0 +1,15 @@
+Rule,Importance,In explanation
+Higher Education Level: Increase education level to at least 'Bachelors',5,1
+Age Considerations: Age alone is not a limiting factor,5,1
+Occupation and Hours per Week: Same occupation (Sales) and hours per week (40),4,0
+Gender: Higher education mitigates any negative bias,1,1
+Race: Higher education mitigates race influence,5,1
+Work Hours Flexibility: Reducing work hours with high education still positive,1,1
+Education Level: Higher education levels lead to higher income,5,1
+Occupation: Occupation alone is not a determining factor,5,1
+"Age, Hours per Week, Marital Status, Race, and Gender: Alone are not determining factors",5,1
+Education Level: Higher education (Prof-school) leads to higher income,4,0
+Education and High Hours: Bachelors with high hours per week (>40),1,0
+Workclass Other/Unknown and Education Prof-school,1,0
+Education Prof-school and Marital Status Single,1,0
+Young Age and Education Prof-school,1,0

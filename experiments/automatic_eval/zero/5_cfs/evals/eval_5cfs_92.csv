@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+Increase Education Level (HS-grad to Assoc),5,0
+Increase Education Level (HS-grad to Doctorate),5,0
+Increase Education Level (HS-grad to Masters),5,1
+Change in Marital Status (Widowed to Divorced),1,0

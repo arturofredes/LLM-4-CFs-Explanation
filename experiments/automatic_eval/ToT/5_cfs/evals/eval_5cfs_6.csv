@@ -1,0 +1,9 @@
+Rule,Importance,In explanation
+"Higher education levels such as Bachelors, Doctorate, or Prof-school are associated with higher income (> 50k).",3,1
+Occupations classified as 'Professional' or 'White-Collar' are associated with higher income (> 50k).,4,1
+"Working significantly more hours per week (e.g., 80 hours) can be associated with higher income (> 50k).",1,0
+Achieving a Doctorate degree leads to a higher income.,2,0
+Switching to a Professional occupation leads to higher income.,3,1
+Being Male leads to a higher income.,1,0
+"Higher education levels (Masters, Doctorate, Bachelors) significantly increase the likelihood of earning more than $50k/year.",4,1
+Being in a professional occupation increases the likelihood of earning more than $50k/year.,2,1

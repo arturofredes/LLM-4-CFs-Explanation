@@ -1,0 +1,10 @@
+Rule,Importance,In explanation
+Working more hours per week can lead to a positive income outcome.,2,1
+"Attaining a higher education level, such as 'Prof-school,' 'Bachelors,' or 'Doctorate' can result in a positive income outcome.",10,1
+Being self-employed can lead to a positive income outcome.,1,0
+Changing the workclass to 'Other/Unknown' or working in the Government sector can lead to a positive income outcome.,2,1
+Being older and having a professional occupation can lead to a positive income outcome.,1,0
+Professional occupations lead to higher income compared to Blue-Collar occupations.,1,1
+Race 'Other' can lead to higher income compared to 'White'.,1,0
+"If occupation changes from Blue-Collar to Sales while maintaining a higher education level (e.g., Masters), then the likelihood of earning more than $50k increases.",1,0
+"If hours per week worked decreases significantly (e.g., from 40 to 12 hours), then the likelihood of earning more than $50k increases.",1,0

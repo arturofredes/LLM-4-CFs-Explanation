@@ -1,0 +1,8 @@
+Rule,Importance,In explanation
+"Higher education (Masters, Doctorate, Bachelors, Prof-school) leads to higher income.",5,0
+"Sales, Professional, and White-Collar occupations lead to higher income.",3,1
+Gender being Male leads to higher income.,1,1
+"Occupation change to 'Sales', 'White-Collar', or 'Professional' leads to higher income.",5,1
+Reduction in hours combined with an occupation change leads to higher income.,1,0
+Age increase combined with favorable occupation leads to higher income.,3,0
+Gender independent of favorable occupation can lead to higher income.,5,0

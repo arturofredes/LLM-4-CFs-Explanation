@@ -1,0 +1,9 @@
+Rule,Importance,In explanation
+"Higher education levels (Bachelors, Masters, Doctorate) are associated with a positive income outcome.",14,1
+"Marital status changes, such as being married or widowed, can positively influence income predictions.",6,1
+"Gender (being male) might positively impact the income outcome, but higher education can offset gender biases.",1,0
+Age is less impactful compared to education and marital status.,3,0
+Workclass and occupation consistency suggests these factors are less influential compared to others.,4,1
+Maintaining a consistent number of working hours (40 hours per week) does not differentiate between negative and positive outcomes.,5,0
+"Being Self-Employed can result in higher income, even with a lower education level like HS-grad.",1,0
+"Working significantly more hours per week (e.g., 72 hours) can lead to a higher income.",3,1

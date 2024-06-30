@@ -1,0 +1,14 @@
+Rule,Importance,In explanation
+Achieving a higher level of education (Prof-school or Doctorate) significantly increases the likelihood of a higher income.,5,1
+Increasing the number of hours worked per week can positively influence income.,1,0
+"Transitioning to a higher-status occupation (e.g., from Service to White-Collar) can lead to higher income.",1,0
+"Changes in marital status can have some influence, though they are not as consistent as education or occupation.",1,1
+"Age has some influence, but it is less consistent compared to other factors.",2,0
+Higher Education Levels (Masters or Prof-school) leads to higher income.,5,0
+Being married increases the likelihood of earning more than $50k a year.,1,0
+"Staying within the same workclass (Government) is common, switching to Private with higher education still results in higher income.",5,1
+Slight reduction in hours worked per week does not negatively impact income if higher education is achieved.,2,1
+Increasing the education level to Doctorate or Prof-school improves the likelihood of earning more than $50k/year.,5,1
+"Marital status change to Married or Divorced can also improve income predictions, especially when combined with a higher education level.",2,1
+Workclass change to Other/Unknown with a higher education level can positively influence income predictions.,5,1
+Older age with a higher education level may also positively impact income predictions.,5,1

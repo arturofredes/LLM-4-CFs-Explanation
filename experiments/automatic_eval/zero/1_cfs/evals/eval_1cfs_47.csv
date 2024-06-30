@@ -1,0 +1,3 @@
+Rule,Importance,In explanation
+"education == ""Doctorate""",1,1
+age >= 51,1,0

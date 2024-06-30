@@ -1,0 +1,12 @@
+Rule,Importance,In explanation
+"Higher education levels (such as ""Prof-school"" or ""Doctorate"") are associated with earning more than $50k a year.",3,1
+A significant reduction in hours worked per week can lead to earning more than $50k a year.,1,0
+"Being ""Self-Employed"" or in a high-professional work class is associated with earning more than $50k a year.",1,0
+"Occupations with higher status (such as ""White-Collar"") are associated with earning more than $50k a year.",1,0
+"Marital status changes (such as being ""Widowed"") can be associated with earning more than $50k a year.",2,0
+Age variations can be associated with earning more than $50k a year.,2,0
+Marital status being Married or Widowed leads to higher income.,3,0
+"Higher education (Prof-school, Bachelors) leads to higher income.",3,0
+Occupation being White-Collar leads to higher income.,1,0
+Increased hours per week (significantly higher than 35) can lead to higher income.,1,1
+Race being Other can lead to higher income in certain scenarios.,1,0

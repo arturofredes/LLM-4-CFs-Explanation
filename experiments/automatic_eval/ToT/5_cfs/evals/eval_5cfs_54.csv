@@ -1,0 +1,16 @@
+Rule,Importance,In explanation
+"Achieve a higher education level (Doctorate, Prof-school, or Bachelors).",5,0
+"Consider different workclass options, though this is less consistent.",1,0
+Slightly increase the number of hours worked per week.,1,0
+"Higher education (Doctorate, Prof-school, Bachelors) leads to higher income.",5,0
+Certain occupations like White-Collar lead to higher income.,1,0
+Gender being Female in combination with higher education (Bachelors) can lead to higher income.,1,0
+Race being Other can lead to higher income in certain educational and occupational contexts.,1,0
+"Age being higher (e.g., 75) can lead to higher income.",1,0
+"Slightly fewer work hours (e.g., 36 per week) with higher education can still lead to higher income.",1,0
+"Higher education levels (Masters, Doctorate) are associated with a positive income outcome.",3,1
+Occupations such as Professional and White-Collar are associated with a positive income outcome.,2,1
+Being Divorced can be associated with a positive income outcome under certain conditions.,1,0
+"Being of a race other than White (e.g., Other) can be associated with a positive income outcome under certain conditions.",1,0
+Working in the Government sector increases the likelihood of earning more than $50k.,1,1
+"Working fewer hours (e.g., 5 hours per week) can still be associated with higher income if other factors, such as education level, are favorable.",1,0

@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+"If the occupation is `Professional` or `White-Collar`, the likelihood of earning more than $50k increases.",5,1
+"If the education level is `Prof-school` or `Doctorate`, the likelihood of earning more than $50k increases.",2,1
+"If the number of hours worked per week is significantly higher (e.g., 91 hours), the likelihood of earning more than $50k increases.",1,0
+"The combination of higher education (Prof-school, Doctorate) and a defined occupation (Professional, White-Collar) can outweigh the influence of working fewer hours per week.",2,1
+Age alone does not determine the income prediction; it is more effective when considered in conjunction with other factors such as education and occupation.,5,1

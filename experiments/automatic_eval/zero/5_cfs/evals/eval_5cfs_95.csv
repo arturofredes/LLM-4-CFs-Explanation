@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+"Achieving a higher education level (Associate's degree, Professional school, Bachelor's degree, or Doctorate) significantly increases the likelihood of earning more than $50k a year.",5,1
+Being in a professional occupation is more likely to result in a positive income prediction.,1,1
+"Even if the occupation is Blue-Collar, higher education can still result in a positive income outcome.",4,0
+Age combined with higher education or professional occupation can lead to a positive income outcome.,4,0
+Higher working hours (60) do not guarantee a positive outcome unless combined with higher education or professional occupation. Lower working hours (like 15) can still result in a positive outcome if combined with higher education.,1,0

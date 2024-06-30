@@ -1,0 +1,18 @@
+Rule,Importance,In explanation
+"If the education level changes from 'School' to 'Some-college,' the income prediction changes to positive.",1,1
+"If the education level changes from 'School' to 'Masters,' the income prediction changes to positive.",2,1
+"If the education level changes from 'School' to 'Doctorate,' the income prediction changes to positive.",1,1
+"If the education level changes from 'School' to 'Prof-school,' the income prediction changes to positive.",1,1
+"If the occupation changes from 'Blue-Collar' to 'Professional,' the income prediction changes to positive.",1,1
+"If the occupation changes from 'Blue-Collar' to 'White-Collar,' the income prediction changes to positive.",1,1
+"If the occupation changes from 'Blue-Collar' to 'Other/Unknown,' the income prediction changes to positive.",2,1
+"If the education level changes to 'Masters' and the occupation changes to 'White-Collar,' the income prediction changes to positive.",1,0
+"If the education level changes to 'Masters' and the occupation changes to 'Other/Unknown,' the income prediction changes to positive.",1,0
+"If the education level changes to 'Doctorate' and the occupation remains 'Blue-Collar,' the income prediction changes to positive.",1,0
+"If the education level changes to 'Prof-school' and the occupation changes to 'Other/Unknown,' the income prediction changes to positive.",1,0
+"Higher education levels such as Bachelors, Assoc, and Doctorate are more likely to have a higher income.",5,0
+Occupations such as Professional and Sales are associated with higher income.,2,1
+Working for the Government appears to be associated with a higher income.,1,1
+Working more hours per week might lead to higher income.,1,1
+"Older individuals (e.g., 61 years or older) have a higher likelihood of earning more than $50k a year.",3,0
+"An individual is more likely to earn more than $50k a year if they have a higher education level (Bachelors, Prof-school, Doctorate), and either have significant work experience (indicated by older age) or work more than the standard 40 hours per week.",5,0

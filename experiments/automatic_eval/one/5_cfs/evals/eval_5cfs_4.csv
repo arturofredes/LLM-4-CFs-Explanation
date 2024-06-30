@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+"Higher education (Masters, Doctorate, Prof-school) leads to higher income.",5,1
+"Workclass being Other/Unknown, Self-Employed, or Government leads to higher income.",3,1
+"Marital status changes (Separated, Widowed) can lead to higher income under certain circumstances.",2,0

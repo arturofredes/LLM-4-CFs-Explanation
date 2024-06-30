@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+If occupation is 'Blue-Collar' Then predicted income is ≤ $50k.,2,0
+If occupation is 'Professional' Then predicted income is > $50k.,2,1
+If hours_per_week is 60 Then predicted income is ≤ $50k.,2,0
+If hours_per_week is 6.0 Then predicted income is > $50k.,2,0

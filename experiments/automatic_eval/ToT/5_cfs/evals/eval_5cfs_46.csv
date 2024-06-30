@@ -1,0 +1,13 @@
+Rule,Importance,In explanation
+If marital status is changed from 'Single' to 'Separated',2,0
+If education level is changed from 'Some-college' to 'Prof-school',10,1
+"If hours per week are increased significantly (e.g., from 25 hours to 89 hours)",1,0
+"If age is increased (e.g., from 39 to 59 or 62 years old)",2,0
+If workclass is changed from 'Self-Employed' to 'Other/Unknown',1,0
+Being Divorced or Separated leads to higher income compared to being Single,2,0
+Occupations like Sales and White-Collar are associated with higher income compared to Blue-Collar jobs,3,0
+Higher education levels such as Prof-school and Assoc are linked to higher income compared to Some-college,2,1
+"Working more hours per week (e.g., 45 hours) is correlated with higher income compared to working fewer hours (e.g., 25 hours)",1,0
+Increasing the number of work hours per week from 25 to at least 29 hours leads to a positive income outcome,3,1
+Increasing age from 39 to 40 can be associated with a positive income outcome,1,0
+Changing occupation from 'Blue-Collar' to 'Service' can be associated with a positive income outcome,1,0

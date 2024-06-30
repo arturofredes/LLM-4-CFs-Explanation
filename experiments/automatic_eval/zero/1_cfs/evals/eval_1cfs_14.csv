@@ -1,0 +1,3 @@
+Rule,Importance,In explanation
+"If a person's age is significantly younger (from 34 to 22), then there is a higher likelihood of earning more than 50k.",1,1
+"If a person's race is categorized as Other instead of White, then there is a higher likelihood of earning more than 50k.",1,1

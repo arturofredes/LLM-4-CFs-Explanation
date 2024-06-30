@@ -1,0 +1,7 @@
+Rule,Importance,In explanation
+"Individuals who are ""Married"" are more likely to earn more than $50,000 a year.",5,1
+"Working more hours per week increases the likelihood of earning more than $50,000 a year.",9,1
+"Being ""Male"" may increase the likelihood of earning more than $50,000 a year.",1,0
+"Older individuals may have a higher likelihood of earning more than $50,000 a year.",7,0
+Higher education (Doctorate) leads to higher income.,6,1
+Variation in workclass (from Private to Other/Unknown) may lead to higher income.,1,0

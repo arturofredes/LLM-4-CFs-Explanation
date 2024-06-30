@@ -1,0 +1,11 @@
+Rule,Importance,In explanation
+"If education is ""Doctorate"", then income is predicted to be > $50k",2,1
+"If education is ""Masters"" and occupation is ""Service"", then income is predicted to be > $50k",1,0
+"If education is ""Prof-school"" and marital_status is ""Married"", then income is predicted to be > $50k",1,0
+"If education is ""Masters"" and age is increased to 54, then income is predicted to be > $50k",1,0
+"Higher education levels (Masters, Doctorate) lead to higher income",5,1
+Marital status (being Married) can influence a higher income,1,1
+"Age diversity can still result in higher income, depending on other factors",4,0
+"Achieving a higher education level (e.g., Doctorate, Masters, or Prof-school) increases the likelihood of earning more than $50k a year",5,1
+Working more hours per week can positively impact income predictions,1,1
+"Transitioning to a Government workclass can lead to a positive income prediction, even if other factors remain constant",1,1

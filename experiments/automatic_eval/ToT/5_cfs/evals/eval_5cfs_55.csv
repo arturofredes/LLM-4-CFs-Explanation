@@ -1,0 +1,7 @@
+Rule,Importance,In explanation
+Higher education levels (Doctorate or Prof-school) increase the likelihood of a positive income prediction.,14,0
+"Working significantly more hours (e.g., 59 hours per week) can improve income predictions.",2,1
+Gender (Male) may influence income predictions.,6,0
+Age (80) with higher education can contribute to a positive outcome.,1,0
+Occupation consistency does not primarily impact income improvement.,5,0
+"If workclass is Government, then more likely to earn > $50k/year.",1,1

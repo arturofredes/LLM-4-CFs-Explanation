@@ -1,0 +1,7 @@
+Rule,Importance,In explanation
+Higher education levels like 'Prof-school' or 'Bachelors' are associated with earning more than $50k a year.,4,1
+Occupations in 'Sales' or Blue-Collar jobs with different conditions can be associated with higher income.,3,1
+"Gender can impact income, with some cases where 'Female' is associated with higher income.",1,0
+Working more than the standard 40 hours per week can be associated with a higher income.,2,1
+"Race can have an impact on income, with 'Other' being associated with higher income in some cases.",1,0
+Being 'Self-Employed' can be associated with a higher income compared to being in the 'Private' workclass.,1,1

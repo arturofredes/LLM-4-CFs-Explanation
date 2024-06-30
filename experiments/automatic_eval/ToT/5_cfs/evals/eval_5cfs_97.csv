@@ -1,0 +1,15 @@
+Rule,Importance,In explanation
+"Increase age significantly (e.g., 40 to 80)",2,0
+"Being older (e.g., 63 or 80)",2,0
+"Transition from ""Self-Employed"" to ""Government"" or ""Other/Unknown""",2,0
+"Upgrade education level from ""Some-college"" to ""Bachelors""",1,1
+"Switch occupation from ""Service"" to ""Sales""",1,1
+"Change race category from ""White"" to ""Other""",3,0
+"Increase hours worked per week significantly (e.g., from 50 to 93)",1,0
+"Achieving a higher level of education (e.g., Bachelors, Doctorate) leads to higher income",2,1
+"Occupations beyond ""Service"" (e.g., ""White-Collar"", ""Other/Unknown"") can lead to higher income",2,0
+Both significantly lower and higher working hours can lead to higher income,2,0
+"Being of a different race (""Other"") in the same occupation can also lead to higher income",1,0
+"From ""Service"" to ""Sales"" or ""White-Collar""",4,1
+"From ""Some-college"" to ""Doctorate""",1,0
+"Change in working hours from ""50"" to lower values such as ""9.0"" or ""10.0""",2,0

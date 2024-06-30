@@ -1,0 +1,7 @@
+Rule,Importance,In explanation
+If `education` is 'Prof-school',0,0
+If `education` is 'Doctorate',0,0
+If `education` is 'Masters',1,1
+If `marital_status` is 'Separated' and `education` is 'Prof-school',0,0
+"If `age` is significantly higher (e.g., 73)",0,0
+If `workclass` is 'Other/Unknown' and `education` is 'Doctorate',0,0

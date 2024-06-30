@@ -1,0 +1,9 @@
+Rule,Importance,In explanation
+"Achieving a higher educational level (Doctorate, Masters, Prof-school) is a significant factor.",5,1
+"Being in a recognized professional occupation (Professional, Sales) as opposed to 'Other/Unknown.'",2,1
+Increasing the number of hours worked per week can also contribute positively.,1,0
+Workclass does not significantly affect income in this case.,5,1
+Occupation does not significantly affect income in this case.,5,1
+Age is not a determining factor for income in this case.,5,1
+Hours worked per week do not significantly impact income in this case.,5,1
+Gender (Male) and marital status (Married) are consistent but not determining factors for higher income in this context.,5,1

@@ -1,0 +1,13 @@
+Rule,Importance,In explanation
+"If the race changes from White to Other, the income prediction changes to positive.",1,0
+"If the workclass changes from Self-Employed to Private or Other/Unknown, the income prediction changes to positive.",2,1
+"If the occupation changes from Blue-Collar to Professional or Sales, the income prediction changes to positive.",3,1
+"If the gender changes from Male to Female, the income prediction changes to positive.",1,0
+"If the age changes from 53 to 75 or 47, the income prediction changes to positive.",2,0
+"If the education level changes from Some-college to School, the income prediction changes to positive.",1,0
+Higher Education Leads to Higher Income,3,0
+Occupation Type Influences Income,2,1
+Marital Status,2,0
+Hours Worked,1,0
+"Occupation change (Service, Sales, Other/Unknown)",4,0
+Higher education (Bachelors or Prof-school),3,1

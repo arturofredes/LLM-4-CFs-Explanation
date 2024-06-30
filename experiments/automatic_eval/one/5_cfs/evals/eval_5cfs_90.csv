@@ -1,0 +1,8 @@
+Rule,Importance,In explanation
+"Higher education (Masters, Doctorate, Bachelors, Prof-school) leads to higher income.",5,1
+"Sales, Professional, and White-Collar occupations lead to higher income.",3,0
+Gender being Male leads to higher income.,1,1
+"Being widowed, as opposed to married, can potentially lead to higher income.",1,0
+"Being in a Government or Private workclass, combined with higher education, can lead to higher income.",2,1
+"Transitioning to a Service occupation, along with higher education, can lead to higher income.",1,1
+Being of a different race (Other) in combination with higher education and other factors can potentially lead to higher income.,1,0

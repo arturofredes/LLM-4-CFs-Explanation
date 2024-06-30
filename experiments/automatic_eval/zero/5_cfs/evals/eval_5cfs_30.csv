@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+"If education is 'Masters' or 'Doctorate', then income is likely to be more than $50k per year.",5,1
+"If age is significantly younger (e.g., 23 years) with 'Masters' education, then income is likely to be more than $50k per year.",1,0
+The number of hours per week worked does not have a consistent impact on income outcome but may influence the prediction when combined with higher education levels.,5,1

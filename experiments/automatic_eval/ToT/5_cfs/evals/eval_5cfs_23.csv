@@ -1,0 +1,18 @@
+Rule,Importance,In explanation
+"Higher education levels (Masters, Doctorate) are associated with a positive income outcome. Even an Associate degree appears to influence the positive outcome.",5,0
+"Gender alone does not have a consistent impact. Although the counterfactuals include both genders, there is one case where changing the gender to male resulted in a positive income outcome.",1,0
+"The number of hours worked per week has a complex impact. While 40 hours per week is present in both negative and positive outcomes, an extremely low number of hours (7.0) also resulted in a positive outcome.",1,0
+Age does not appear to be a decisive factor as individuals both older and the same age as the negative outcome still achieved a positive outcome.,0,1
+"Being Self-Employed is associated with a positive income outcome even if the education level is higher. However, employment in the Private sector is not a definitive negative indicator, as it is present in both negative and positive outcomes.",1,1
+"The occupation type 'White-Collar' is consistent across all cases, indicating that within this dataset, the specific occupation category might not be a determining factor for income prediction.",0,0
+"Individuals with a Bachelors, Masters, or Doctorate degree tend to have higher incomes compared to those with only Some-college education.",5,1
+Gender transition from Female to Male is associated with higher income.,1,0
+"There is no consistent pattern suggesting that age variations (37, 41, 43) significantly affect income, as long as education and other factors are favorable.",0,1
+"Even within the same occupation (White-Collar), higher education and/or gender transition (to Male) lead to higher income.",5,0
+Changing the workclass to 'Other/Unknown' with a higher education degree (Masters) leads to higher income.,1,0
+Having a higher education level (Bachelors or above) increases the likelihood of earning more than $50k a year.,3,1
+Being in a 'Professional' occupation increases the likelihood of earning more than $50k a year compared to a 'White-Collar' job.,1,1
+Belonging to a race categorized as 'Other' increases the likelihood of earning more than $50k a year compared to being 'White'.,2,0
+Being 'Male' increases the likelihood of earning more than $50k a year compared to being 'Female'.,1,0
+"Either working significantly more hours (e.g., '88 hours') or fewer hours (e.g., '19 hours') per week can increase the likelihood of earning more than $50k a year. This suggests that both very high and very low hours have been observed in positive cases, likely due to different contexts such as high-paying part-time jobs or high-income full-time jobs.",2,0
+Being 'Self-Employed' increases the likelihood of earning more than $50k a year compared to being employed in the 'Private' sector.,1,1

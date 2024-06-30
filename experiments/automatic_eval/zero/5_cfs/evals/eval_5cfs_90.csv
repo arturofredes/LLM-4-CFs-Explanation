@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+"Higher education levels (Masters, Bachelors, Prof-school, Some-college) are associated with earning more than $50k a year.",4,1
+Occupations in White-Collar or Professional categories are more likely to result in an income greater than $50k compared to Blue-Collar jobs.,4,1
+"The type of occupation within a workclass (particularly in self-employed or private) is crucial, with a preference towards White-Collar or Professional roles.",5,1
+"Gender does not solely determine income level, but the presence of both male and female individuals in positive outcomes suggests it is not a limiting factor.",5,1
+"The number of hours worked per week (e.g., 50 hours) does not significantly impact the income prediction by itself.",5,1

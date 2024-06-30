@@ -1,0 +1,7 @@
+Rule,Importance,In explanation
+Higher education levels (Prof-school) lead to higher income.,1,1
+Marital status changes (from Single to Widowed) can lead to higher income.,2,1
+"Race diversity (being ""Other"") can lead to higher income.",2,1
+Consistent work hours (even with fewer hours in some cases) can lead to higher income.,5,1
+Employment in the Government sector leads to higher income.,1,1
+"Gender remains constant (Male), indicating that other factors (education, marital status, race, work hours, workclass) play a role in changing income predictions.",5,1

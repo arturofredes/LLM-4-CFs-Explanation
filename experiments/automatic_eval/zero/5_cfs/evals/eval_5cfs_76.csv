@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+"If a person has a higher level of education (e.g., 'Masters' or 'Prof-school') rather than 'Some-college', the probability of earning more than $50k increases.",5,1
+"If a person is 'Married' rather than 'Separated,' the likelihood of earning more than $50k increases.",1,1
+"If a person works more hours per week (e.g., 70 hours instead of 60 hours), the probability of earning more than $50k increases.",1,1
+"If a person works in a field categorized as 'Professional' rather than 'Sales' or 'Other/Unknown,' the likelihood of earning more than $50k increases.",1,1

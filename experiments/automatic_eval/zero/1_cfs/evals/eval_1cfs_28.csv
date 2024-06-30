@@ -1,0 +1,3 @@
+Rule,Importance,In explanation
+"If `education` changes from a lower level to a `Doctorate`, then the income prediction is more likely to be positive.",1,1
+"If `hours_per_week` decreases significantly (in this case from 52 to 14), then the income prediction is more likely to be positive.",1,1

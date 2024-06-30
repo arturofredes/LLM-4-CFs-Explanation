@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+Change in Workclass,1,0
+Change in Education Level,1,1
+Increase in Hours Per Week,2,0
+Change in Occupation,1,0

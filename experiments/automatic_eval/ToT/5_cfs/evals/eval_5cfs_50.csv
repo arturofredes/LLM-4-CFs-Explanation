@@ -1,0 +1,12 @@
+Rule,Importance,In explanation
+Change Race: From 'White' to 'Other'.,5,0
+Increase Educational Attainment: From 'Some-college' to 'Prof-school' or 'Masters'.,2,1
+Increase Age: From 37 to 49.,1,0
+Reduce Working Hours: From 40 to 27 or 28 hours per week.,2,0
+"Higher education (Doctorate, Bachelors) leads to higher income.",3,0
+Changing workclass to Government leads to higher income.,1,1
+Gender being Female with a higher education level (Doctorate) leads to higher income.,1,0
+Marital status being 'Separated' combined with higher education leads to higher income.,1,0
+"Older age (e.g., 53) generally increases income potential.",1,0
+Professional occupations are associated with higher income.,2,1
+Being self-employed or working in the government sector may increase income chances.,2,1

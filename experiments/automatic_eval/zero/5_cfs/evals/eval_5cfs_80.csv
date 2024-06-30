@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+"Upgrade education level to Doctorate, Prof-school, or Bachelors.",5,1
+Change workclass to Government.,1,1
+Change marital status to Widowed.,1,0
+Change occupation to Sales.,1,0
+Increase hours per week to 49.,1,1

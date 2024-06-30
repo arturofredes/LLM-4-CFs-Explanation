@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+Lower age can lead to a positive income prediction.,1,1
+"Higher education level (e.g., Masters) increases the likelihood of earning more than $50k.",1,1
+Gender change from Male to Female can positively influence income prediction.,2,0
+Fewer working hours per week can still result in a positive income prediction if other factors are favorable.,1,1

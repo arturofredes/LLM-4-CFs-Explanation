@@ -1,0 +1,3 @@
+Rule,Importance,In explanation
+"If the education level is 'Doctorate', the likelihood of earning more than 50k $ increases.",1,1
+"If the occupation is categorized as 'Professional', the likelihood of earning more than 50k $ increases.",1,1

@@ -1,0 +1,12 @@
+Rule,Importance,In explanation
+"Higher education levels such as Associate, Bachelor's, and Doctorate degrees are positively correlated with earning more than $50k a year, as opposed to having just an HS-grad qualification.",5,0
+"Having a professional occupation is positively correlated with earning more than $50k a year. Even if the occupation is 'Other/Unknown,' having a higher education level (e.g., Doctorate, Bachelor's) can still result in a positive outcome.",2,0
+"Marital status alone is not a strong determinant; both married and divorced statuses can result in earning more than $50k a year, provided other factors such as education and occupation are favorable.",5,0
+"Being self-employed can be positively correlated with earning more than $50k a year. However, the workclass 'Other/Unknown' can still result in a positive outcome if supported by other favorable factors like higher education and professional occupation.",1,0
+The number of hours worked per week (8 hours in this case) appears to be constant and does not play a significant role in differentiating between negative and positive outcomes for this specific instance.,5,0
+"Higher education levels (Bachelors, Masters) lead to higher income.",4,1
+Occupations such as Professional and Sales lead to higher income.,2,0
+"Increased working hours (e.g., from 8 to 26 hours per week) can lead to higher income.",1,0
+Higher education levels (Bachelors or Masters) are favorable for a positive outcome.,4,1
+Having a Professional occupation increases the likelihood of a positive outcome.,1,1
+"Working significantly more hours per week (e.g., 23.0 or 73.0) is likely to result in a positive outcome.",2,0

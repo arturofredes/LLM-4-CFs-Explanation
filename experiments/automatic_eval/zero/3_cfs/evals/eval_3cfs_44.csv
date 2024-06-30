@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+"If `education` is `Masters`, then the likelihood of earning more than $50k a year increases.",2,1
+"If `workclass` is `Self-Employed`, then the likelihood of earning more than $50k a year increases, even with a lower level of education like HS-grad.",1,1
+"If `education` is `Masters` and `workclass` is `Other/Unknown`, the individual is still likely to earn more than $50k a year.",2,0
+"If `education` is `HS-grad` and `workclass` is `Self-Employed`, the likelihood of earning more than $50k a year increases.",1,0

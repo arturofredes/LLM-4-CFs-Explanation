@@ -1,0 +1,14 @@
+Rule,Importance,In explanation
+"Education changes from 'Some-college' to 'Prof-school', 'Doctorate', or 'Masters'",5,1
+Gender changes from Female to Male,3,0
+"Marital status changes from 'Single' to 'Separated', 'Divorced', 'Married', or 'Widowed'",4,1
+Occupation changes from 'Service' to 'Other/Unknown' or 'White-Collar',2,0
+Marital status being 'Married' or 'Widowed',3,1
+"Higher education levels ('Doctorate', 'Bachelors', 'Prof-school')",4,0
+"Certain occupations ('Professional', 'White-Collar')",2,1
+Age being higher can correlate with higher income,2,0
+"Advanced education levels ('Assoc', 'Prof-school', 'Bachelors') are crucial for higher income",5,0
+Being married is a positive indicator for higher income compared to being single,2,1
+Males are more likely to earn above $50k compared to females,3,0
+"Occupation type can influence income, with diverse job types appearing in higher income cases",1,0
+"Older age groups (37, 52) are associated with higher income",2,0

@@ -1,0 +1,13 @@
+Rule,Importance,In explanation
+"Marital status changes from Single to Married or other statuses like Separated, Widowed, or Divorced",5,0
+"Increasing education level to Bachelors, Masters, Doctorate, or Professional School",4,1
+Changing the workclass from Private to Self-Employed,1,0
+Higher Education Leads to Higher Income (Master's or Doctorate degrees),3,0
+"Marital status from Single to Widowed, Separated, or Married",3,0
+Gender Male,1,0
+Self-Employment,2,0
+"Higher education (Prof-school, Assoc, Masters)",3,0
+Married status,3,0
+Government employment (even with HS-grad),1,1
+Self-Employed status in White-Collar occupation,1,0
+Male gender in White-Collar occupation,1,0

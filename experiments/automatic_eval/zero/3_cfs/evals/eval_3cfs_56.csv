@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+If the education level is 'Masters' instead of 'HS-grad',2,0
+If the marital status is 'Divorced' instead of 'Married',1,0
+If the occupation is 'Sales' instead of 'Blue-Collar',1,1
+If the hours per week are significantly lower,1,1

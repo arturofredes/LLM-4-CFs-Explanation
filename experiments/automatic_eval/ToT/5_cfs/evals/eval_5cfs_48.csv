@@ -1,0 +1,15 @@
+Rule,Importance,In explanation
+"If the education level is 'Assoc,' upgrading to 'Prof-school' or 'Bachelors' can result in a positive income outcome.",2,1
+"If the marital status is 'Single,' changing to 'Separated' or 'Married' can result in a positive income outcome.",4,1
+"If the occupation is 'White-Collar,' changing to 'Professional' can result in a positive income outcome.",3,1
+"If the age is 25, an increase to at least 27 can result in a positive income outcome.",1,0
+Being married leads to a higher income.,4,1
+Older individuals tend to have higher incomes.,3,0
+Working significantly more hours per week leads to a higher income.,1,0
+"Higher education levels (e.g., Masters) lead to a higher income.",1,1
+Increasing the education level to at least a Master's degree or higher is associated with a higher likelihood of earning more than $50k a year.,4,1
+Working in a professional occupation or maintaining a white-collar job with higher education can increase the chances of earning more than $50k a year.,5,1
+"Gender appears to have an impact, with males being more likely to earn more than $50k, but females can also achieve this with higher education and professional occupations.",2,1
+"Being married may have a positive impact on income, but it is less clear compared to the impact of education, occupation, and gender.",1,1
+"Age does not seem to be a significant differentiator in this case since both 22 and 25-year-olds appear in positive outcomes. Other factors such as education, occupation, and gender are more impactful.",5,1
+"The type of workclass (Government or otherwise) does not appear to be a strong differentiator, suggesting that factors like education and occupation within the workclass have a greater impact.",5,1

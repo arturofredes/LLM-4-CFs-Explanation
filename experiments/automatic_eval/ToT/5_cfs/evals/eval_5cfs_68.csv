@@ -1,0 +1,11 @@
+Rule,Importance,In explanation
+Higher education levels lead to higher income,5,1
+Occupations such as Sales or diverse roles labeled Other/Unknown combined with higher education can lead to higher income,2,0
+Increasing the number of hours worked per week can positively influence the income prediction,1,1
+Employment in the Government sector or higher education within the Private sector improves income predictions,5,1
+"Changes in marital status, when combined with other favorable factors like higher education, can lead to positive income outcomes",1,0
+Being married or separated (as opposed to single) is associated with higher income,2,0
+"Occupations like Sales are associated with higher income, though Blue-Collar workers can also achieve higher income with other compensating factors",1,0
+Individuals with a Prof-school education level are more likely to earn more than $50k compared to those with a School education level,5,0
+Occupation plays a significant role. Working in Service or White-Collar positions as opposed to Blue-Collar may increase the likelihood of earning more than $50k,2,0
+"While age can be a factor, education and occupation seem to have a more significant impact. However, older age (e.g., 51 years) in combination with higher education also leads to a positive outcome",1,0

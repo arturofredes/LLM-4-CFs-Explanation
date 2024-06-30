@@ -1,0 +1,7 @@
+Rule,Importance,In explanation
+"Higher education (Masters, Doctorate, Bachelors, Prof-school) leads to higher income.",3,1
+"Sales, Professional, and White-Collar occupations lead to higher income.",3,0
+Gender being Male leads to higher income.,3,1
+Age combined with higher education increases the probability of higher income.,3,1
+Marital status alone is not a significant factor.,3,0
+Race and gender consistency alone are not significant factors.,3,0

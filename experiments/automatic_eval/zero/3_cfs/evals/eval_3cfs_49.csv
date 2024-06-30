@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+"If the workclass changes from Private to Self-Employed, it may lead to an income of more than $50k.",1,1
+Increasing age from 31 to 41 years may contribute to earning more than $50k.,1,1
+Increasing the number of hours worked per week from 40 to 84 hours can lead to a higher income prediction.,1,1

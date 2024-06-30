@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+Rule 1: Marital Status,2,0
+Rule 2: Education Level,1,0
+Rule 3: Hours Per Week,1,1
+Rule 4: Occupation,1,0

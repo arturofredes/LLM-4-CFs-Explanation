@@ -1,0 +1,12 @@
+Rule,Importance,In explanation
+"Age plays a significant role. Individuals who are older (e.g., 56, 57, 66 years) are more likely to earn more than 50k $.",3,0
+Higher levels of education such as 'Bachelors' or 'Prof-school' are associated with higher income.,2,1
+Males tend to have a positive counterfactual outcome more frequently compared to females.,2,0
+"Significant increase in working hours (e.g., 94 hours per week) as seen in self-employed scenarios leads to higher income regardless of other factors.",1,0
+'Self-Employed' individuals show positive income outcomes even with an 'Assoc' degree and relatively younger age.,1,0
+"'White-Collar' occupation is consistently seen across both negative and positive outcomes, but it appears that other factors like age, education, and hours worked are crucial.",1,0
+Race being White leads to higher income.,2,0
+"Higher education (e.g., Masters) leads to higher income.",1,0
+"Certain occupations (e.g., Professional) lead to higher income.",1,1
+Significant deviations in hours worked (in specific roles) can still result in higher income.,1,1
+"If the individual's age is slightly younger (e.g., 33 years old), the likelihood of earning more than $50k increases.",1,0

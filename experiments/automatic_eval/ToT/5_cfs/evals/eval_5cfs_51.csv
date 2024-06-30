@@ -1,0 +1,10 @@
+Rule,Importance,In explanation
+Education Level,6,1
+Employment Type Can Influence Income,1,0
+Gender,6,0
+Higher Education Leads to Higher Income,3,0
+Marital Status,5,1
+Marital Status Influences Income,5,1
+Occupation,1,0
+Workclass,2,0
+Workclass and Occupation,5,1

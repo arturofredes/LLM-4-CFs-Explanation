@@ -1,0 +1,7 @@
+Rule,Importance,In explanation
+"If the individual is married, the likelihood of earning more than $50K increases.",10,1
+"If the individual has a Masters or Doctorate degree, the likelihood of earning more than $50K increases.",8,1
+"If the individual is male, the likelihood of earning more than $50K increases.",7,0
+"If the individual works in the Government sector or is a Professional, the likelihood of earning more than $50K increases.",4,1
+"If the individual works significantly more hours per week (e.g., 93 hours), the likelihood of earning more than $50K increases.",2,0
+"If age is reduced from 63 to 58 or 35, the likelihood of earning more than $50K increases.",2,0

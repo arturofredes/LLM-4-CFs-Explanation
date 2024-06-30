@@ -1,0 +1,11 @@
+Rule,Importance,In explanation
+"If `education` is 'Bachelors,' 'Prof-school,' or 'Masters,' then the income is likely to be > $50k.",3,1
+"If `occupation` is 'Service' or 'Professional,' then the income is likely to be > $50k.",4,1
+"If `hours_per_week` is 50 or more, then the income is likely to be > $50k.",1,1
+"If `workclass` is 'Government,' then the income is likely to be > $50k.",1,1
+"If `race` is 'Other' and combined with other positive factors, then the income is likely to be > $50k.",1,0
+"If education level is Prof-school or Doctorate, then income is more likely to be greater than $50,000/year.",3,1
+"If occupation is White-Collar or Professional, then income is more likely to be greater than $50,000/year.",2,1
+"If race is Other, then income is more likely to be greater than $50,000/year.",1,0
+"If age is significantly lower (e.g., 18) and education is Prof-school, then income is more likely to be greater than $50,000/year.",1,1
+"If hours per week are around 39 and occupation is Professional, then income is more likely to be greater than $50,000/year.",1,1

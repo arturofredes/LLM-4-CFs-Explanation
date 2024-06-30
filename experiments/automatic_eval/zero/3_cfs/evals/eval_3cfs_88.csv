@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+"Age: Older age (e.g., 39 years or more)",2,0
+Education: Higher education level (Bachelors or higher),3,1
+"Work Hours: Significantly more working hours per week (e.g., 88 hours)",1,0

@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+Education Level (HS-grad to Assoc),1,0
+Education Level (HS-grad to Prof-school),1,1
+Education Level (HS-grad to Masters),1,0
+Hours per Week (40 to 75),1,0
+Race (White to Other),1,1

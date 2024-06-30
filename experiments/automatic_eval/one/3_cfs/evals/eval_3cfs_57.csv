@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+"Higher education (Prof-school, Doctorate, Bachelors) leads to higher income.",3,1
+"Occupation in the Service industry leads to higher income, even if the workclass remains the same.",1,0
+"Workclass being ""Other/Unknown"" can still lead to higher income if paired with higher education.",1,0
+Reduced hours per week (from 40 to 10) can lead to higher income if education level is increased (Bachelors in this case).,1,0

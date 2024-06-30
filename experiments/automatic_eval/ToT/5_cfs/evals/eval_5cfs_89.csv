@@ -1,0 +1,12 @@
+Rule,Importance,In explanation
+Increase Education Level: From 'School' to 'Assoc' or 'Prof-school',5,0
+Change Occupation: From 'Blue-Collar' to 'Professional',1,1
+Consider Race Classification: Being classified as 'White' instead of 'Other',1,0
+"Maintain or Adjust Work Hours: Typically 45 hours per week, with notable exceptions",5,1
+Consider Age Interactions: Age itself might not be the primary driver but can interact with other factors,1,0
+Higher Education Leads to Higher Income,5,1
+Marital Status Impact: Being married appears to have a positive impact on income,2,1
+Increased Hours Worked Per Week,1,0
+Race Impact: Being White may have a positive impact on income,1,0
+"Occupation and Education Combined Rule: A change in occupation from 'Blue-Collar' to 'Service' along with a higher education level (e.g., Masters)",1,0
+"Age and Education Rule: Higher education levels (Assoc, Masters) improve income outcomes across various ages",5,1

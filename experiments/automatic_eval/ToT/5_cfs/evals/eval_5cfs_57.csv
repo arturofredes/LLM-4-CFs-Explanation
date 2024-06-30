@@ -1,0 +1,12 @@
+Rule,Importance,In explanation
+"If the person works more hours per week (e.g., from 40 to 47 or 53), their likelihood of earning more than $50k increases.",4,1
+"Higher levels of education, such as Professional School or Doctorate, increase the likelihood of earning more than $50k.",13,1
+Switching to a professional occupation can increase earnings potential.,1,1
+Working in the government sector can increase the likelihood of earning more than $50k.,1,1
+A combination of increased working hours and higher education or a change in occupation can result in higher income.,2,0
+Occupation remaining constant (Blue-Collar) indicates other factors like education and hours worked are more influential.,5,0
+Race and marital status consistency suggest these factors might have less impact on income in this specific case.,4,1
+Gender consistency implies that gender does not change the income prediction when other factors like education and hours worked are modified.,5,1
+"Marital status seems to have a variable impact, but positive outcomes are observed across different statuses including being Single and Divorced.",2,0
+"While the workclass ""Private"" and occupation ""Blue-Collar"" do not seem to change the outcome significantly, being in a different workclass (e.g., ""Other/Unknown"") might have a positive effect.",1,0
+"Age does not seem to have a significant impact on its own, as both younger (33) and older (78) individuals can achieve a positive outcome.",0,1

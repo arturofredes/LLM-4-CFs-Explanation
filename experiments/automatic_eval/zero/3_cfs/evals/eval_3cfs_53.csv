@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+IF education is upgraded to 'Masters' OR 'Doctorate' OR 'Prof-school' THEN income prediction changes to positive.,3,1
+IF marital_status changes to 'Divorced' AND education is 'Masters' THEN income prediction changes to positive.,1,1
+"IF hours_per_week significantly increases (e.g., to 84 hours) THEN income prediction changes to positive.",1,1

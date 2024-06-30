@@ -1,0 +1,2 @@
+Rule,Importance,In explanation
+"If a person with the given attributes (age, workclass, marital status, race, gender, hours per week) has a Masters degree rather than an HS-grad degree, they are more likely to earn more than $50k/year.",1,1

@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+"Age Rule: Reducing age to early career stages (e.g., 19 or 28 years old) can increase the likelihood of earning more than $50k per year.",2,0
+Race Rule: Being of 'White' race increases the likelihood of earning more than $50k per year compared to 'Other'.,2,0
+Education Rule: Attaining higher education levels such as 'Prof-school' increases the likelihood of earning more than $50k per year.,1,1
+Occupation Rule: Working in 'White-Collar' or 'Professional' occupations increases the likelihood of earning more than $50k per year.,3,1
+Workclass Rule: Being employed in the 'Government' or having an 'Other/Unknown' workclass increases the likelihood of earning more than $50k per year.,2,1

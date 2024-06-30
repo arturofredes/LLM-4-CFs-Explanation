@@ -1,0 +1,7 @@
+Rule,Importance,In explanation
+"Higher education levels, such as Some-college, Doctorate, and Prof-school, positively impact income potential.",4,0
+Occupations in White-Collar and Sales sectors positively influence income potential compared to Blue-Collar jobs.,3,0
+"Belonging to racial categories other than White (in this particular case, 'Other') may positively impact income potential.",1,0
+"Working in the Private sector, as opposed to being Self-Employed, positively impacts income potential.",2,1
+Changes in marital status such as becoming 'Separated' or 'Widowed' can influence the likelihood of earning more than $50k a year.,3,0
+"The gender attribute can impact the income prediction, with a change to 'Female' leading to a positive outcome in one of the counterfactuals.",1,0

@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+IF Occupation = Service THEN Occupation = Professional,3,1
+IF Education = HS-grad AND Occupation = Service THEN Education = Masters OR Doctorate,2,0
+IF Hours_per_week != 40 THEN Positive Outcome (Given other conditions are favorable),3,1

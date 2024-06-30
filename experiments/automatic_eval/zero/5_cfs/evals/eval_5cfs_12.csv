@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+"Obtaining a higher educational degree (Bachelors, Masters, Prof-school, Doctorate) increases the likelihood of earning more than $50K.",5,1
+"Altering the number of hours worked per week, particularly increasing to 54 hours, can positively impact income.",2,0
+Changing the workclass from Private to Government can increase the likelihood of earning more than $50K.,1,0
+Marital status may have a nuanced impact in conjunction with other factors like education.,1,0
+"Minor changes in age are less impactful compared to education, work hours, and workclass.",1,0

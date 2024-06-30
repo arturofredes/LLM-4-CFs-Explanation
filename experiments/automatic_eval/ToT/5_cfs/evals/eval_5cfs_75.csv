@@ -1,0 +1,10 @@
+Rule,Importance,In explanation
+"Higher education levels (e.g., 'Prof-school', 'Bachelors') lead to positive income predictions.",3,1
+Working in the 'Private' sector rather than being 'Self-Employed' leads to positive income predictions.,1,1
+Being 'Female' rather than 'Male' leads to positive income predictions.,10,0
+"Working fewer hours per week (e.g., 14 or 17 hours) rather than 99 hours leads to positive income predictions.",5,1
+Working in a 'Professional' occupation rather than a 'Blue-Collar' occupation leads to positive income predictions.,1,1
+Marital Status (Divorced): Being divorced instead of married leads to higher income.,1,0
+Race (Non-White): Being of a race other than White leads to higher income.,1,0
+Age variation: Different ages (younger or older than 53) are associated with a higher income prediction.,3,0
+Slight decrease in hours per week (from 99 to 86) can still result in a higher income prediction.,1,0

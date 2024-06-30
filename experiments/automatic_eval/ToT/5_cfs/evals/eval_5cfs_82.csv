@@ -1,0 +1,10 @@
+Rule,Importance,In explanation
+Upgrade education to 'Prof-school' or 'Masters',5,1
+Change occupation to 'Professional',2,1
+"If remaining in 'Blue-Collar,' ensure a higher education level (e.g., 'Masters')",3,0
+"Increase weekly work hours (e.g., from 40 to 45 hours)",1,1
+Being self-employed can lead to higher income compared to being employed in the private sector,1,0
+A change in marital status (from Separated to Divorced) can lead to higher income,1,0
+Flexibility in work hours (ranging from lower to higher than 40 hours per week) can influence higher income,2,1
+Different Marital Status Can Impact Earnings,2,0
+Increased Working Hours Correlate with Higher Income,2,1

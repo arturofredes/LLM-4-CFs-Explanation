@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+"Education Level: Bachelors or higher (Bachelors, Masters)",4,1
+Occupation: Professional or Other/Unknown (self-employment),4,1
+Workclass: Other/Unknown or Self-Employed,5,1
+"Age: 68 years old or younger (e.g., 52 years old)",5,1
+"Hours per Week: 8 hours per week or slightly less (e.g., 6 hours per week)",5,0

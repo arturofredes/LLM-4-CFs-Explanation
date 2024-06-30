@@ -1,0 +1,3 @@
+Rule,Importance,In explanation
+"If a person is in the 'Private' workclass, changing to 'Self-Employed' may increase their likelihood of earning more than $50k a year.",1,1
+"If a person's highest education level is 'School', obtaining a 'Prof-school' level of education may increase their likelihood of earning more than $50k a year.",1,1

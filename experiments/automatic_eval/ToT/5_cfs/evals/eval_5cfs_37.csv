@@ -1,0 +1,12 @@
+Rule,Importance,In explanation
+If `education` is 'Doctorate' and `marital_status` is 'Divorced',1,0
+If `education` is 'Masters' and `occupation` is 'Sales' and `marital_status` is 'Single',1,0
+If `education` is 'Prof-school' and `marital_status` is 'Single',3,0
+If `age` is increased to 51 or 81 and `education` is 'Prof-school' and `marital_status` is 'Single',2,0
+Attaining higher education levels such as 'Prof-school' or 'Masters',4,1
+Different marital status (Separated or Divorced) may influence income,2,0
+Occupations such as 'Professional' and 'Sales' are linked to higher income predictions,2,1
+Changing the workclass from 'Private' to 'Self-Employed',1,0
+Higher education levels such as 'Prof-school' or 'Masters',5,1
+Being 'Married' or 'Divorced',2,0
+"A significant change in age (e.g., 22 or 90) combined with higher education",2,0

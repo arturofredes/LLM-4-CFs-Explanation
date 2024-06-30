@@ -1,0 +1,12 @@
+Rule,Importance,In explanation
+"Higher Education Level (Prof-school, Masters, Doctorate)",5,1
+Increased Hours Per Week (More than 40),1,0
+Marital Status (Separated),2,0
+Age (Older than 29),1,0
+Occupation Change (Professional or White-Collar),1,1
+Higher Education Leads to Higher Income (Bachelors included),5,1
+Increased Work Hours Leads to Higher Income (More than 40),2,0
+Marital Status Variation (Separated or Widowed),2,0
+Age and Education Combination (Older than 29 with Higher Education),1,0
+Occupation Type (Professional or White-Collar),3,1
+"Educational Attainment (Assoc, Bachelors, Doctorate, Masters, Prof-school)",5,1

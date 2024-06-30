@@ -1,0 +1,14 @@
+Rule,Importance,In explanation
+Age >= 54,2,0
+Workclass == 'Government',1,1
+"Occupation in ['Professional', 'White-Collar']",2,1
+Race == 'White',3,0
+Hours Per Week >= 76,2,0
+"Occupation in ['Sales', 'Service', 'White-Collar']",3,1
+Age == 47,1,0
+Gender == 'Female',1,0
+Hours Per Week == 61,2,0
+Hours Per Week == 13,2,0
+Hours Per Week == 78,1,0
+Hours Per Week == 9,1,0
+Education == 'Some-college' and Occupation == 'Other/Unknown',1,0

@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+Age: Being significantly younger (29 vs. 69) is a key factor for earning more than 50k $ a year.,1,1
+Education: Achieving a higher level of education (Professional school vs. High School graduate) is a key factor for earning more than 50k $ a year.,1,1
+Hours Per Week: The number of hours worked per week (60 hours) does not significantly affect the outcome in this particular case since it remains constant in both scenarios.,1,1
+"Marital Status: Marital status as ""Married"" does not significantly affect the outcome in this particular case since it remains constant in both scenarios.",1,1
+"Workclass, Occupation, Race, Gender: These attributes (Workclass, Occupation, Race, Gender) do not significantly affect the outcome in this particular case since they remain constant in both scenarios.",1,0

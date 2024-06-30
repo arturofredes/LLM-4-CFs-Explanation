@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+"If the person has a Doctorate, they are more likely to earn more than $50k",2,1
+"If the person’s race is 'Other', they are more likely to earn more than $50k",3,0
+"If the person works in the Private sector, they are more likely to earn more than $50k",1,1
+"If the person works significantly more hours per week (e.g., 68 or 75 hours), they are more likely to earn more than $50k",2,0
+"In some cases, older age (e.g., 85 years) combined with other factors can influence higher income predictions",1,0

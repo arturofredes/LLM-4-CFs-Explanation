@@ -1,0 +1,9 @@
+Rule,Importance,In explanation
+Having a Bachelor's degree increases the probability of earning more than $50k.,4,1
+Being Self-Employed increases the probability of earning more than $50k.,7,1
+"Marital status can influence income, but the effect is complex and may depend on other factors.",5,1
+Occupations in White-Collar or Professional fields increase the probability of earning more than $50k.,4,1
+Both very high and very low working hours can be associated with higher incomes.,5,0
+"Older age, indicating more experience, can be a positive factor.",1,0
+Obtaining a higher level of education (such as a Doctorate) significantly impacts income positively.,4,0
+"Combining higher education, a change in occupation, and a change in workclass leads to a positive outcome.",0,0

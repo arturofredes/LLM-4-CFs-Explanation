@@ -1,0 +1,3 @@
+Rule,Importance,In explanation
+"If the workclass is 'Government', then the likelihood of earning more than $50k increases.",1,1
+"If the hours per week are 80, then the likelihood of earning more than $50k increases.",1,1

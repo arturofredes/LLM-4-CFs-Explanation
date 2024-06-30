@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+"Higher education levels (Masters, Prof-school) are associated with a positive income outcome.",2,1
+"Being married is associated with a positive income outcome, even with the same education level (HS-grad).",1,1
+"Working in non-private sectors (Other/Unknown, Self-Employed, Government) is associated with a positive income outcome.",4,1
+"Being male is associated with a positive income outcome, even with similar education and workclass.",2,1
+Being in a Blue-Collar occupation within the Government sector is associated with a positive income outcome.,1,0

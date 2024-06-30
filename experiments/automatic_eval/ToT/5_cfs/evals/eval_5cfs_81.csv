@@ -1,0 +1,10 @@
+Rule,Importance,In explanation
+"Higher educational attainment (Bachelors, Masters, Doctorate)",5,1
+Being in an 'Other/Unknown' workclass,1,0
+"Advanced age (e.g., 83.0)",1,0
+"Working significantly more hours per week (e.g., 84.0 hours)",1,0
+Occupations such as White-Collar and Other/Unknown lead to higher income,2,0
+Race being Other,1,0
+Working in a government job,1,1
+"Increased Work Hours (e.g., 66-67 hours)",2,0
+"Lower Work Hours (e.g., 19 hours)",1,0

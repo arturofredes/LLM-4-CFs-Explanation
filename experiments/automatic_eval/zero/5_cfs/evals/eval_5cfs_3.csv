@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+Change from Female to Male,3,1
+Change from Widowed to Married,2,1
+Change from Service to White-Collar,1,1
+Increase in Working Hours (more than 40),2,1
+Increase in Age (older age),2,0

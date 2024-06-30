@@ -1,0 +1,3 @@
+Rule,Importance,In explanation
+"If the workclass is ""Government"" instead of ""Other/Unknown"", the likelihood of earning more than $50k a year increases.",1,1
+"If the education level is ""Masters"" instead of ""HS-grad"", the likelihood of earning more than $50k a year increases.",1,1

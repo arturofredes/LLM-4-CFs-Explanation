@@ -1,0 +1,12 @@
+Rule,Importance,In explanation
+"Higher Education (Masters, Doctorate, or Assoc)",5,1
+Age >= 40,2,0
+Occupation (Other/Unknown or White-Collar),2,0
+"Hours per Week significantly higher (e.g., 74)",1,0
+"Higher Education (Masters, Prof-school, Doctorate)",5,1
+"Occupation (Blue-Collar, White-Collar, Service) with Higher Education",5,0
+Hours per Week variability with Higher Education,5,1
+"Higher Education (Prof-school, Doctorate, Masters)",5,1
+"Increase Working Hours (e.g., from 40 to 67 hours)",1,0
+Change Occupation to Professional or specialized job role,1,1
+Race: Being White,2,0

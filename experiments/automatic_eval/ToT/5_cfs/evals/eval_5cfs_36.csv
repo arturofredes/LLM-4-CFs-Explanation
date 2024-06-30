@@ -1,0 +1,10 @@
+Rule,Importance,In explanation
+"Higher education levels (Doctorate, Masters, Prof-school) are associated with a higher probability of earning more than $50k a year.",5,1
+"Occupations such as Professional and Service are associated with a higher income, especially when combined with higher education levels.",5,1
+Marital status interacts with education and occupation to influence income.,5,1
+Age does not appear to be a significant factor by itself.,1,1
+Race and gender remain constant across the observed cases.,5,1
+Hours worked per week remain constant across the cases.,5,1
+"Attaining a Higher Level of Education (Bachelors, Prof-school) is Crucial for Higher Income.",5,0
+Employment in the 'Government' or 'Other/Unknown' sectors correlates with higher income.,3,1
+"Higher age combined with a higher education level (e.g., 62 years old with a Bachelors degree) can lead to higher income even in the 'Private' sector.",1,0

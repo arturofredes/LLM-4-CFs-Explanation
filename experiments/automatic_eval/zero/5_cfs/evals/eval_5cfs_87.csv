@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+"Change Workclass: Transitioning from 'Private' to 'Government', 'Self-Employed', or 'Other/Unknown'",3,1
+Marital Status: Being 'Married' instead of 'Single',4,1
+Higher Education (Doctorate): Having a 'Doctorate',1,1

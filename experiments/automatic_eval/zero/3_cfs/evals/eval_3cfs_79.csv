@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+Same Conditions Rule,1,0
+Education Rule,2,1
+Workclass and Education Rule,1,1

@@ -1,0 +1,9 @@
+Rule,Importance,In explanation
+Occupation Change,1,1
+Gender Change,2,0
+Employment Type Change,1,1
+Marital Status Change,2,1
+Education Change,0,1
+Increase in Working Hours,0,0
+Occupation Change (Service or Other/Unknown),2,0
+Race Change,1,0

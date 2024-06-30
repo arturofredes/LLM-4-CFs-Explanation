@@ -1,0 +1,7 @@
+Rule,Importance,In explanation
+"If education is Masters or Doctorate, then income > 50k $",13,1
+"If gender is Male, then income > 50k $ (when other factors remain constant)",2,0
+"If hours_per_week is significantly increased (e.g., to 85 hours), then income > 50k $",2,0
+"If marital status is Married, then income > 50k $",6,0
+Age variations can impact income when combined with other factors,2,0
+Hours per week are not a consistent determinant for income,0,0

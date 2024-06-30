@@ -1,0 +1,3 @@
+Rule,Importance,In explanation
+education = Masters => income > 50k,1,1
+occupation = White-Collar => income > 50k,1,1

@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+"Individuals with higher education levels (Bachelors or Doctorate) are more likely to earn more than $50k compared to those with ""Some-college"" education.",3,1
+"Individuals who work more hours per week (e.g., 75 or 90 hours) are more likely to earn more than $50k compared to those who work 40 hours per week.",2,1
+"Individuals with a ""White-Collar"" occupation are more likely to earn more than $50k compared to those in ""Blue-Collar"" occupations, even if the hours worked per week are the same.",1,0

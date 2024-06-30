@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+Changing workclass from Self-Employed to Government improves income prediction.,1,1
+Gender change from Male to Female in specific contexts may improve income prediction.,1,0
+"Higher education levels, such as Professional School, improve income prediction.",1,1
+Race change from White to Other can influence income prediction positively.,1,0
+"Generally, increasing hours worked per week should improve income prediction.",0,1

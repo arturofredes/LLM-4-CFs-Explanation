@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+"If `education` is 'Prof-school' or 'Assoc', then the likelihood of earning more than $50k increases.",3,1
+"If `workclass` is 'Other/Unknown' or 'Government', then the likelihood of earning more than $50k increases.",2,1
+"If `marital_status` is 'Separated', then the likelihood of earning more than $50k increases.",1,0

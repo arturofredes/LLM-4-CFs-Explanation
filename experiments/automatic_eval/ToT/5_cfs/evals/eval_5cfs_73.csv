@@ -1,0 +1,11 @@
+Rule,Importance,In explanation
+"If `workclass` is `Government`, then the likelihood of earning more than $50,000 increases.",5,1
+"If `workclass` is `Government`, the exact number of `hours_per_week` has less influence; even low or high hours may result in a positive outcome.",5,1
+"Higher age combined with `Government` workclass is associated with a higher likelihood of earning more than $50,000.",2,1
+Workclass being Government leads to higher income.,5,0
+Increased hours per week leads to higher income.,3,0
+"Age might have some impact on income, but it is less consistent than other factors.",2,0
+Moving from the `Private` workclass to `Government` or `Self-Employed` can lead to a positive outcome.,4,1
+Increasing the number of hours worked per week significantly can lead to a positive outcome.,2,0
+"Increasing age might also contribute to a positive outcome, although this may not be easily actionable.",1,0
+Switching from a `Blue-Collar` occupation to a `Professional` occupation can lead to a positive outcome.,1,1

@@ -1,0 +1,21 @@
+Rule,Importance,In explanation
+"If the marital status changes from Single to Married, the income prediction changes from 0 to 1.",4,1
+"If the education level increases, the income prediction changes from 0 to 1.",2,1
+"If the occupation changes from Sales to Professional, the income prediction changes from 0 to 1.",2,1
+"If the hours per week are significantly higher, the income prediction changes from 0 to 1.",1,0
+"If the gender changes from Female to Male, the income prediction changes from 0 to 1.",2,0
+"If the race changes from Other to White, the income prediction changes from 0 to 1.",1,0
+Being married leads to a higher income.,3,1
+Being male leads to a higher income.,2,0
+"Working in a higher-status occupation (White-Collar, Professional) leads to a higher income.",2,1
+"Achieving higher levels of education (Masters, Doctorate) leads to a higher income.",3,0
+"Working significantly more hours per week (90 hours in the counterfactual case) can lead to a higher income, even if the other factors remain the same.",1,0
+"If education is 'Prof-school' or 'Doctorate', then income > $50k.",2,0
+"If education is 'Masters', then income > $50k.",1,0
+"If marital status is 'Married', then income > $50k.",2,1
+"If marital status is 'Widowed', then income > $50k.",1,0
+"If occupation is 'White-Collar', then income > $50k.",1,0
+"If gender is 'Male', then income > $50k.",3,0
+"If race is 'White', then income > $50k.",1,0
+"If hours_per_week is significantly higher (e.g., 52 hours), then income > $50k.",1,0
+"If hours_per_week is very low (e.g., 1 hour), but combined with being married and male, then income > $50k.",1,0

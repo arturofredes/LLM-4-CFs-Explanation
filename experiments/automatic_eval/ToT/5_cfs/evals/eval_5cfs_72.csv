@@ -1,0 +1,12 @@
+Rule,Importance,In explanation
+Higher Education Level (Masters or Prof-school),11,1
+Professional Occupation,5,1
+Age Variability with Conditions,5,1
+Hours Per Week,6,0
+More Work Hours,1,0
+Separated + Higher Education,1,0
+White-Collar Occupation,1,0
+Gender being Male,4,1
+Occupation Change from Service to Professional or Sales,2,1
+Significant increase in working hours,1,0
+Being younger (in the 30s),2,0

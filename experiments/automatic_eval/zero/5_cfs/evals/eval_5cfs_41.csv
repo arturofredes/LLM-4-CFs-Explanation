@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+Education level should be at least 'Bachelors' for a positive income outcome.,5,1
+Hours per week can vary significantly (as low as 21 or as high as 57) and still result in a positive income outcome.,5,1
+Workclass can be either 'Private' or 'Government' for a positive income outcome.,5,1
+"Age can increase (e.g., from 35 to 43) and still result in a positive income outcome if education and other factors are favorable.",5,1

@@ -1,0 +1,13 @@
+Rule,Importance,In explanation
+Higher education levels such as Prof-school or Bachelors significantly increase the likelihood of earning more than $50k a year.,5,1
+"The workclass is less critical as long as education is high, although the most common workclass among positive outcomes is Private.",5,1
+"Age is flexible, suggesting income potential is not strictly age-dependent.",5,1
+"Hours per week do not need to be high to achieve a higher income, as seen in the 14 hours/week case.",5,0
+"Higher education (Doctorate, Prof-school) leads to higher income.",4,1
+"Marital status (Married, Separated, Divorced) as opposed to being Single leads to higher income.",4,0
+Being self-employed can lead to higher income even with 'Some-college' education.,1,0
+"Having a doctorate, professional school, or master's degree significantly increases the likelihood of earning more than $50k a year.",4,0
+Being married or divorced increases the probability of earning more than $50k a year.,4,0
+Switching from a blue-collar occupation to a professional occupation increases the likelihood of earning more than $50k a year.,1,1
+"Being older (e.g., 37 years old vs. 19 years old) can increase the chances of earning more than $50k a year.",1,0
+"Certain combinations of education, marital status, and occupation can collectively increase the likelihood of earning more than $50k a year.",3,0

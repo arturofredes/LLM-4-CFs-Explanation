@@ -1,0 +1,13 @@
+Rule,Importance,In explanation
+"Achieving a higher level of education (Bachelors, Doctorate, Prof-school, or Masters) increases the likelihood of earning more than $50k a year.",4,1
+"Being married or widowed is associated with a higher likelihood of earning more than $50k a year. Additionally, single individuals with higher education levels or in professional occupations also have better chances.",5,1
+Occupation as a professional or having a higher education level within a white-collar job increases the likelihood of earning more than $50k a year.,5,1
+"Gender can play a role, with males or females with higher education levels or different marital statuses more likely to earn more than $50k a year.",5,1
+"Remaining in the private workclass but achieving higher education or different marital status, or being in a different workclass with higher education, increases the likelihood of earning more than $50k a year.",5,0
+"Higher education (Doctorate, Masters, Bachelors) leads to higher income.",5,1
+Marital status being Married or Widowed leads to higher income compared to being Single.,4,1
+Working in the Government sector can lead to higher income compared to the Private sector.,1,0
+"Increase education level to 'Doctorate,' 'Masters,' or 'Prof-school'.",5,1
+"Change marital status to 'Separated,' 'Married,' or 'Widowed'.",3,1
+Change gender to 'Male' (in some cases).,1,1
+Change workclass to 'Government' with a 'Doctorate' education level.,1,0

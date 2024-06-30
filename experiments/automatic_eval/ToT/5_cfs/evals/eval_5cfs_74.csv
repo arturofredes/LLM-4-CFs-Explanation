@@ -1,0 +1,14 @@
+Rule,Importance,In explanation
+"Higher education (Prof-school, Doctorate, Assoc) increases the likelihood of earning more than $50k.",11,1
+Being married increases the likelihood of earning more than $50k.,5,1
+"Gender, in combination with education level, can influence income prediction. Specifically, females with advanced degrees have higher predicted incomes.",1,0
+"Even with lower hours per week, higher education levels or being married can still result in higher income predictions.",2,0
+Higher Education (Prof-school) leads to higher income.,5,1
+"Increased hours worked per week (e.g., 80 hours) can lead to higher income.",2,0
+"Race being categorized as ""White"" may lead to higher income.",1,0
+"The workclass ""Government"" and occupation ""Blue-Collar"" do not significantly change the income prediction when compared to factors like education level.",0,0
+"If the marital status is changed from Single to Married, the income prediction changes to >50k.",3,1
+"If the age is increased from 39 to 46, the income prediction changes to >50k.",1,0
+"If the hours per week are increased from 40 to 76, the income prediction changes to >50k.",1,0
+"If the hours per week are slightly increased from 40 to 42, the income prediction changes to >50k.",1,1
+"If the age is decreased from 39 to 36 and the marital status is changed to Married, the income prediction changes to >50k.",1,0

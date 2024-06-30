@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+Workclass being Self-Employed or Government leads to higher income.,5,1
+Occupation being Professional leads to higher income.,1,1
+"Working more hours per week (e.g., 60 hours) can lead to higher income.",1,1

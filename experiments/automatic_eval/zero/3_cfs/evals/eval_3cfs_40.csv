@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+"Increase in education level (School to Bachelors, Assoc, or Doctorate) is associated with higher income predictions.",3,0
+Change in occupation from Blue-Collar to Professional is associated with higher income predictions.,1,0
+"Age can be a factor, but its effect is less clear compared to education and occupation.",1,0
+"Slight variations in hours per week can influence predictions, but this is less significant than education and occupation changes.",1,0

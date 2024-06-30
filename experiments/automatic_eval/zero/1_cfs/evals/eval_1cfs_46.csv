@@ -1,0 +1,3 @@
+Rule,Importance,In explanation
+"If `education` is ""Prof-school"" instead of ""Some-college"", then the income is more likely to be >$50k.",1,1
+"If `occupation` is ""White-Collar"" instead of ""Blue-Collar"", then the income is more likely to be >$50k.",1,1

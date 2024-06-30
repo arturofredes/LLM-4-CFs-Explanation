@@ -1,0 +1,2 @@
+age,workclass,education,marital_status,occupation,race,gender,hours_per_week,income
+30,Private,Bachelors,Married,Sales,White,Male,42,1

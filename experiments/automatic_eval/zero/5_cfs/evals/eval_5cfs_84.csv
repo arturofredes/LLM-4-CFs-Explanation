@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+"Education Level: Individuals with a Doctorate degree are more likely to earn more than $50,000 a year.",3,1
+Occupation: Occupations in the 'Professional' category are associated with higher income predictions.,1,1
+"Work Hours (Self-Employed): Self-employed individuals working significantly more hours per week (e.g., 94 hours) are more likely to earn more than $50,000 a year.",1,0
+"Gender: Gender may influence income prediction outcomes, with males potentially being more likely to earn more than $50,000 a year in certain occupations.",1,1
+Type of Employment: Being employed by the government or being self-employed can positively impact income prediction.,3,1

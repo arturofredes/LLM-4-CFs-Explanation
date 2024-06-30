@@ -1,0 +1,7 @@
+Rule,Importance,In explanation
+Individuals with a Bachelor's degree are more likely to earn more than $50k a year compared to those with some college education.,2,1
+Older individuals (above 40 years) are more likely to earn more than $50k a year.,3,0
+"The race factor shows that both White and Other racial groups can earn more than $50k a year. However, this rule is less definitive compared to education and age.",3,1
+"Working 50 hours per week is consistent across both negative and positive outcomes, indicating that hours per week alone is not a distinguishing factor in predicting income above $50k.",3,1
+"Being married is consistent across both negative and positive outcomes, indicating that marital status alone is not a distinguishing factor in predicting income above $50k.",3,1
+"Working in the service occupation is consistent across both negative and positive outcomes, indicating that occupation alone is not a distinguishing factor in predicting income above $50k.",3,0

@@ -1,0 +1,10 @@
+Rule,Importance,In explanation
+Marital Status: Being married or separated increases the likelihood of earning more than $50k a year.,5,1
+"Hours Per Week: Working significantly more hours per week (e.g., up to 79 or 87 hours) increases the likelihood of earning more than $50k.",2,0
+Race: Race does not have a strong influence in this specific set of counterfactuals.,5,1
+"Higher Education Leads to Higher Income: Individuals with higher education levels (Prof-school, Doctorate) tend to have a higher income.",3,1
+Self-Employment Leads to Higher Income: Being self-employed is associated with higher income.,1,0
+Gender Variation: Both males and females can achieve higher income.,2,1
+"Increase Hours Per Week: Working more than 40 hours per week (e.g., 41 hours) can lead to a higher income.",1,1
+"Education Level: Holding a Bachelors or higher degree (e.g., Prof-school) can contribute positively to earning more than $50k.",5,1
+"Workclass Flexibility: Transitioning to a different workclass (e.g., ""Other/Unknown"") might increase the likelihood of a higher income.",1,0

@@ -1,0 +1,9 @@
+Rule,Importance,In explanation
+"Higher education levels (Assoc, Prof-school, Doctorate, Masters) are associated with a higher likelihood of earning more than $50K.",4,1
+Being married or in some cases separated/widowed is associated with a higher likelihood of earning more than $50K.,4,0
+Occupation types such as White-Collar or even Blue-Collar in government jobs can influence earning predictions.,5,0
+Employment in the private sector or government jobs can influence earning predictions.,5,1
+"Maintaining a consistent work week (e.g., 40 hours per week) is associated with positive income predictions.",5,1
+Gender being Male is associated with a higher income.,1,0
+"Certain changes in occupation, even within the same workclass, can lead to a higher income.",1,0
+Marital status being Married or Divorced leads to higher income compared to being Single.,3,0

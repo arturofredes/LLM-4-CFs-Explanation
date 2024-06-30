@@ -1,0 +1,11 @@
+Rule,Importance,In explanation
+Education Level,5,1
+Combination of Age and Education,5,1
+Flexibility in Working Hours,5,1
+Higher Education Leads to Higher Income,5,1
+Professional Occupations Lead to Higher Income,1,1
+Age Does Not Solely Determine Income,2,0
+"Achieving higher education levels, specifically Doctorate or Prof-school, significantly increases the likelihood of earning more than $50k per year.",5,1
+"Older ages (65, 88, 63) combined with higher education levels are associated with a positive income prediction.",3,0
+Occupations in 'Sales' may have a higher likelihood of leading to higher income predictions compared to 'Blue-Collar' occupations.,1,0
+"Marital status alone is not a decisive factor, but its combination with other factors like education can influence the income prediction.",1,1

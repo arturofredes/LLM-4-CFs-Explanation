@@ -1,0 +1,9 @@
+Rule,Importance,In explanation
+"Higher education levels (Doctorate, Prof-school, Bachelors) are associated with an income > 50k.",5,0
+"While ""Private"" workclass can still lead to > 50k income, combining it with higher education levels or other factors plays a crucial role. Changing workclass to ""Other/Unknown"" with higher education also leads to > 50k income.",5,0
+"Being ""White"" or ""Other"" can both lead to an income > 50k, but race alone is not a determining factor without considering other attributes like education.",5,1
+"While working 40 hours per week can still lead to > 50k income with the right combination of other factors (like higher education), significantly increasing work hours (e.g., to 82 hours per week) can also lead to higher income.",5,1
+"Age alone is not a decisive factor. Various ages (47, 40, 74) can lead to > 50k income when combined with other favorable attributes such as advanced education or increased hours per week.",5,1
+Marital status changes might have an impact.,1,0
+"Changing occupation from ""Blue-Collar"" to ""White-Collar"" or ""Professional"" can result in a higher income prediction.",2,1
+"Working fewer hours (e.g., 23 hours per week) can still lead to a higher income if the individual has a higher education level.",1,0

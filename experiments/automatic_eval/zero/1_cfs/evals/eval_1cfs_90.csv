@@ -1,0 +1,3 @@
+Rule,Importance,In explanation
+"If the education level is ""Some-college"" instead of ""HS-grad"", the likelihood of earning more than $50k/year increases.",1,1
+"If the marital status is ""Separated"" instead of ""Married"", the likelihood of earning more than $50k/year increases.",1,1

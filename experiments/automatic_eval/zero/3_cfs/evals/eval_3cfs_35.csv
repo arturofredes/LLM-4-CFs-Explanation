@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+"If `education` is `Bachelors`, then income is likely to be more than $50K.",1,1
+Age does not necessarily determine income; other factors such as education and work conditions are also important.,3,1
+"Hours per week alone do not determine income, but a significant reduction in hours can still lead to higher income if other conditions are favorable.",1,1

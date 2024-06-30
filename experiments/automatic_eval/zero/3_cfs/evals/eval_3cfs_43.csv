@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+Education Level: 'Doctorate' leads to a higher likelihood of earning more than $50k.,2,1
+Marital Status: Being 'Divorced' or 'Married' leads to a higher likelihood of earning more than $50k.,2,0
+Workclass: Being in the 'Government' workclass leads to a higher likelihood of earning more than $50k.,1,0
+Gender: Being 'Male' leads to a higher likelihood of earning more than $50k.,1,0

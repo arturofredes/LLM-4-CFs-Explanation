@@ -1,0 +1,8 @@
+Rule,Importance,In explanation
+Marital Status: Married or Widowed,5,0
+Workclass: Government,1,1
+Hours per Week: Less than 40 or More than 40,4,0
+Education Level: Masters or Higher,2,1
+Workclass: Self-Employed,2,0
+Occupation: White-Collar,1,0
+"Age: Slight Increase (e.g., 25 to 26)",1,0

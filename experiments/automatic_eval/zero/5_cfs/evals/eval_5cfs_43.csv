@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+Marital Status: Married or Divorced is more favorable than Widowed,5,1
+Gender: Male is more favorable than Female,3,1
+"Hours per Week: Working significantly more hours (e.g., 79 hours) is more favorable",1,0
+Education Level: Having a Doctorate or Masters is more favorable than Some-college,2,1
+"Age: Being younger (e.g., 41 years old) is more favorable than being older (e.g., 63 years old)",1,1

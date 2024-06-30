@@ -1,0 +1,7 @@
+Rule,Importance,In explanation
+Doctorate or Professional Degree,3,1
+Being Married,2,1
+Widowed or Separated with Doctorate,2,0
+Professional Occupation,1,1
+Master's Degree,1,0
+Other/Unknown Workclass with Master's Degree,1,0

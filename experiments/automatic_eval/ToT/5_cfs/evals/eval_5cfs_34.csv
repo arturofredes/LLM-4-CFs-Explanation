@@ -1,0 +1,14 @@
+Rule,Importance,In explanation
+Age,1,0
+Age Factor,5,0
+Age and Experience,1,0
+Gender,1,0
+Higher Education Leads to Higher Income,4,1
+Higher Education Level,9,1
+Increased Hours Per Week,1,0
+Increased Hours per Week Leads to Higher Income,3,0
+Marital Status,1,0
+Occupation Consistency,5,0
+Occupation Flexibility,5,0
+Self-Employment,1,0
+Self-Employment Can Lead to Higher Income,1,0

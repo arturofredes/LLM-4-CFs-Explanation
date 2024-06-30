@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+Having a higher education level (Masters) increases the likelihood of earning more than $50k a year.,2,1
+Being married or widowed may increase the likelihood of earning more than $50k a year.,2,1
+"Being older (e.g., 74 years old) might be associated with higher earnings, possibly due to more experience or seniority.",1,0
+Slightly varying the hours worked per week might improve the likelihood of earning more than $50k a year.,2,1
+Changing the workclass category might influence the income prediction.,1,0

@@ -1,0 +1,8 @@
+Rule,Importance,In explanation
+Work more or fewer hours per week,7,0
+Change marital status,9,1
+Race,1,0
+Age,2,0
+Educational Qualification,6,1
+Different workclass - Private,1,1
+Occupation,0,0

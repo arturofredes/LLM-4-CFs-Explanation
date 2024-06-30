@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+Higher level of education (Masters or above),3,1
+Occupation combined with higher education increases likelihood,3,1
+Marital status alone does not significantly impact the outcome,3,1
+Number of hours worked per week alone does not significantly impact the outcome,3,1
+Older individuals (above 50) have a higher likelihood of earning more,2,0

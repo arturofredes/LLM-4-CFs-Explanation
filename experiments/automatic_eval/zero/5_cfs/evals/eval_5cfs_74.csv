@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+"If the marital status is 'Married,' the likelihood of earning more than $50k increases.",3,1
+"If the education level is at least 'Doctorate' or 'Prof-school,' the likelihood of earning more than $50k increases.",2,1
+"If the gender is 'Female,' the likelihood of earning more than $50k increases.",1,0
+"If the age is higher, the likelihood of earning more than $50k increases.",1,1

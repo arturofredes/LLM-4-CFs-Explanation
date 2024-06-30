@@ -1,0 +1,8 @@
+Rule,Importance,Check,In explanation
+"If the education level is at least ""Bachelors"", then the person is more likely to earn more than 50k $ a year.",12,<function <lambda> at 0x7fc3fdd87490>,1
+"If the work class is ""Self-Employed"", then the person is more likely to earn more than 50k $ a year.",1,<function <lambda> at 0x7fc3fdd87400>,0
+"If the occupation is ""Professional"", then the person is more likely to earn more than 50k $ a year.",2,<function <lambda> at 0x7fc3eb210d30>,1
+"If the gender is ""Female"", then the person is more likely to earn more than 50k $ a year.",1,<function <lambda> at 0x7fc3eb210dc0>,0
+"If the number of hours worked per week is significantly different from 40 (either higher or lower), then the person is more likely to earn more than 50k $ a year.",4,<function <lambda> at 0x7fc3eb210e50>,0
+"Being Separated or Divorced can lead to higher income, as compared to being Married.",3,<function <lambda> at 0x7fc3eb210ee0>,0
+"Individuals at older ages (e.g., 53) can achieve higher incomes, even while remaining in the same occupation and workclass.",3,<function <lambda> at 0x7fc3eb210f70>,0

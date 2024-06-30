@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+Changing marital status to Married resulted in a positive outcome,3,1
+"Changing age to [82, 83] resulted in a positive outcome",2,0
+Changing race to Other resulted in a positive outcome,1,1
+"Changing hours per week to [21, 48, 59] resulted in a positive outcome",3,0
+Changing education to Doctorate resulted in a positive outcome,1,1

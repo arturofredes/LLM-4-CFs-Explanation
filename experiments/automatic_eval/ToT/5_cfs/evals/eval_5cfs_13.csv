@@ -1,0 +1,15 @@
+Rule,Importance,In explanation
+"Increase in age (e.g., from 44 to 58 or 51)",2,0
+"Higher education levels (e.g., Bachelors to Prof-school or Masters) or even secondary education (School)",5,1
+Changing marital status from Divorced to Married,1,1
+"Increasing hours worked per week (e.g., from 60 to 77)",1,0
+Changing workclass from Self-Employed to Government,1,1
+"Being Married, Widowed, or Single can lead to higher income compared to being Divorced",3,1
+Occupations in Sales or Professional roles lead to higher income compared to White-Collar,2,1
+Race 'Other' in a White-Collar occupation can lead to higher income compared to White,1,0
+Education level 'School' can sometimes lead to higher income compared to Bachelors,2,0
+"If `marital_status` is 'Divorced' and change to 'Widowed', then income prediction changes to positive",3,0
+"If `education` is 'Bachelors' and change to 'Masters', then income prediction changes to positive",2,1
+"If `workclass` is 'Self-Employed' and change to 'Other/Unknown', then income prediction changes to positive",1,0
+"If `hours_per_week` is reduced significantly (e.g., from 60 to 42 or 14), then income prediction changes to positive",2,0
+"If `occupation` is 'White-Collar' and change to 'Professional', then income prediction changes to positive",1,1

@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+"If the education level is higher than HS-grad (e.g., Prof-school, Bachelors, Masters, or Doctorate), then the likelihood of earning more than $50,000 a year increases.",5,1
+"If the individual works more than 40 hours per week, then the likelihood of earning more than $50,000 a year increases.",2,1
+"Marital status may interact with other factors, but alone, it is not a decisive predictor of income exceeding $50,000 a year.",5,1
+"The occupation being Blue-Collar does not preclude earning more than $50,000 a year if other factors like education and hours worked are favorable.",5,0

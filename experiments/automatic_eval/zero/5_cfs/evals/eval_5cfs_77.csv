@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+Occupation Rule: Transition from 'Blue-Collar' to 'White-Collar' or 'Sales',3,1
+Marital Status Rule: Being 'Separated' might be associated with higher income compared to being 'Married',2,0
+"Age Rule: Older individuals (ages 69, 71, 90) show higher income potential than middle-aged individuals (age 53)",3,0
+"Race Rule: Both 'White' and 'Other' races can achieve higher income, suggesting that occupation and other factors may play a more significant role than race alone",5,1
+Hours per Week Rule: Working hours around 45-48 per week might have a neutral or positive influence when combined with other positive factors,5,1

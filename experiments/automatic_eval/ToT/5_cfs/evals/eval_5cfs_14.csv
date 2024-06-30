@@ -1,0 +1,15 @@
+Rule,Importance,In explanation
+"If `gender` is Female, then the likelihood of earning more than $50k increases.",2,0
+"If `education` is Some-college, Bachelors, or Doctorate, then the likelihood of earning more than $50k increases.",4,1
+"If `age` is significantly higher (e.g., 71), then the likelihood of earning more than $50k increases.",1,0
+"If `marital_status` is Widowed and `education` is Doctorate, then the likelihood of earning more than $50k increases.",1,0
+"If `race` is Other and `education` is Doctorate, then the likelihood of earning more than $50k increases.",1,0
+"If `education` is Bachelors and `hours_per_week` is significantly lower (e.g., 27), then the likelihood of earning more than $50k can still be high.",1,0
+"If `occupation` is White-Collar, then the likelihood of earning more than $50k increases.",1,0
+"If `education` is Doctorate or Masters, then the likelihood of earning more than $50k increases.",2,0
+"If `marital_status` is Widowed, then the likelihood of earning more than $50k increases.",2,0
+"If `race` is Other, then the likelihood of earning more than $50k increases.",2,0
+"If `age` is significantly older (e.g., 67 years old), then the likelihood of earning more than $50k increases.",1,0
+"If `education` is Prof-school, then the likelihood of earning more than $50k increases.",2,0
+"If `marital_status` is Divorced, then the likelihood of earning more than $50k increases.",1,0
+"If `hours_per_week` is significantly more (e.g., 89) or fewer (e.g., 33), then the likelihood of earning more than $50k increases.",2,0

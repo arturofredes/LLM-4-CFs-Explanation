@@ -1,0 +1,10 @@
+Rule,Importance,In explanation
+Changing the workclass from 'Self-Employed' to 'Government',1,0
+Changing the gender from 'Male' to 'Female',3,0
+Changing the marital status from 'Married' to 'Divorced',1,0
+Upgrading the education level from 'School' to 'Bachelors',4,1
+Changing the occupation from 'Blue-Collar' to 'Professional',1,1
+Changing the race from 'White' to 'Other',1,0
+Increasing the number of hours worked per week,4,1
+"Being older (specifically much older, such as ages 65 and 83)",2,0
+Working in an occupation categorized as 'Other/Unknown',2,0

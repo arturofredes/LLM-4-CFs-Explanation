@@ -1,0 +1,9 @@
+Rule,Importance,In explanation
+"Higher education levels (Doctorate, Prof-school, Masters) are associated with a positive income outcome (>50k $ a year).",14,1
+"Being ""Single"" rather than ""Separated"" can positively affect income levels.",3,0
+"Working in the ""Government"" sector rather than ""Private"" is associated with a positive income outcome (>50k $ a year).",1,0
+Age alone is not a decisive factor but may interact with other variables such as education.,1,1
+Increased working hours lead to higher income.,1,0
+"Transitioning to a ""White-Collar"" occupation appears to increase the likelihood of earning more than $50k a year.",1,1
+"Being ""Self-Employed"" can positively influence the income prediction.",1,1
+Consistency in hours worked per week (60) is necessary but not sufficient by itself to ensure a positive income prediction.,5,1

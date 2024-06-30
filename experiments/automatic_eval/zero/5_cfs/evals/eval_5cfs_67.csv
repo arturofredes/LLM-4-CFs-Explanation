@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+Education: Doctorate or Masters,5,1
+Marital Status: Married or Separated,2,1
+Workclass: Self-Employed,1,1
+"Hours per Week: Significantly more than 45 (e.g., 77)",1,1
+Gender: Male,1,1

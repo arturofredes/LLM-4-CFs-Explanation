@@ -1,0 +1,13 @@
+Rule,Importance,In explanation
+Higher education levels (Masters or Doctorate),5,1
+"Marital status being ""Widowed""",1,0
+"Older age (e.g., 53)",1,0
+Extreme variations in hours per week (significantly lower or higher than 40),2,0
+Combination of higher education and varied working hours,2,0
+Higher education leads to higher income,5,1
+"Marital status being ""Married"" or ""Widowed""",2,1
+Gender being Male,1,0
+"Age being significantly higher (e.g., 52)",1,0
+"Higher education levels (Masters, Doctorate, Prof-school)",5,1
+Being married,2,1
+Working in the government sector,1,0

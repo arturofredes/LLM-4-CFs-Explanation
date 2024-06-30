@@ -1,0 +1,7 @@
+Rule,Importance,In explanation
+Changing the gender from Female to Male has a significant positive impact on the outcome.,2,1
+Increasing the education level from Bachelors to Masters can lead to a positive outcome.,1,1
+Changing marital status from Divorced to Married can lead to a positive outcome.,1,1
+Increasing the number of hours worked per week can lead to a positive outcome.,1,1
+Staying in the same occupation (Service) but changing the workclass to Self-Employed can lead to a positive outcome.,1,0
+"The combination of being Male, working in the Government sector, and having a constant education level (Bachelors) leads to a positive outcome.",2,0

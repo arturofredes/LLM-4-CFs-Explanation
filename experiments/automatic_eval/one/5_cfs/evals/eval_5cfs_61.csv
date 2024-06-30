@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+"Higher education (Prof-school, Doctorate, Masters) leads to higher income.",5,1
+"Different workclass (Self-Employed, Government) leads to higher income.",2,1
+Different race (White) can lead to higher income.,1,0
+Change in marital status from Single to Divorced or Separated can lead to higher income.,2,0

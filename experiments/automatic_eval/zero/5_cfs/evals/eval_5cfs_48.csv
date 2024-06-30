@@ -1,0 +1,7 @@
+Rule,Importance,In explanation
+Age Factor: Increasing age can lead to a positive outcome.,1,1
+Marital Status: Being married is associated with a positive outcome.,4,1
+Education Level: Higher education levels such as a Doctorate can lead to a positive income outcome.,1,1
+Gender: Gender can play a role in the income prediction.,1,1
+"Occupation: Moving to a different occupation, such as Professional, can lead to a positive outcome.",1,1
+Hours Per Week: Increasing the number of hours worked per week can lead to a positive income outcome.,2,1

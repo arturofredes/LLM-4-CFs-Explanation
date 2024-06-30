@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+"If `education` changes from 'HS-grad' to 'Prof-school', the likelihood of earning more than $50k increases.",2,1
+"If `hours_per_week` increases significantly (e.g., from 51 to 89), the likelihood of earning more than $50k increases.",1,0
+"If `education` is 'Prof-school' and `hours_per_week` is reduced to a very low value (e.g., 1.0), the likelihood of earning more than $50k can still be positive.",1,0
+"If `race` changes from 'White' to 'Other' and `hours_per_week` increases significantly, the likelihood of earning more than $50k increases.",1,0

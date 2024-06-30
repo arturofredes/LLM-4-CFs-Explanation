@@ -1,0 +1,15 @@
+Rule,Importance,In explanation
+Higher education levels such as a Master's degree or a Doctorate significantly increase the likelihood of earning more than $50k.,5,1
+"Marital status adjustments, while not as influential as education, can still play a role in positive outcomes.",5,1
+"Occupation type can influence income, with ""Sales"" and ""Blue-Collar"" roles appearing in positive outcomes.",4,0
+"The number of hours worked per week generally should be consistent or higher, but even significantly lower hours (like 3.0) can have positive outcomes if other factors like education are strong.",5,1
+"Higher educational qualifications (Doctorate, Prof-school, Bachelors, Masters) lead to higher income.",5,1
+Occupations such as Sales and Professional lead to higher income.,4,1
+"Marital status change from Widowed to Divorced, combined with higher education, can lead to higher income.",1,0
+"If the individual's education level is ""Doctorate,"" then the likelihood of earning more than $50k increases.",2,0
+"If the individual's education level is ""Assoc"" (Associate degree), then the likelihood of earning more than $50k increases.",3,0
+"If the individual is ""Married,"" then the likelihood of earning more than $50k increases.",1,0
+"A slight variation in age (e.g., age 46 instead of 49) can increase the likelihood of earning more than $50k.",1,0
+"If the individual works significantly more hours per week (e.g., 74 hours), then the likelihood of earning more than $50k increases.",1,0
+"In certain cases, even a significant reduction in hours per week (e.g., 3 hours) combined with a higher education level can still result in earning more than $50k.",1,0
+A combination of moderate changes in educational attainment (like achieving an Associate degree) while keeping other factors constant (such as marital status and occupation) can increase the likelihood of earning more than $50k.,3,0

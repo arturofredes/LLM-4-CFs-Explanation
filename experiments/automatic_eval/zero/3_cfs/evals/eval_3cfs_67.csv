@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+Change workclass from 'Private' to 'Self-Employed',1,1
+Achieve a higher educational qualification such as 'Masters' or 'Prof-school',2,1
+Increase the number of hours worked per week significantly (>= 93 hours),1,1

@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+Marital Status: Widowed or Married > Single,5,1
+"Age: Older age (e.g., 39, 58, 68) > Younger age (e.g., 25)",3,1
+Race: White or Other > White,5,1
+"Hours per Week: More hours (e.g., 60) > Standard hours (40)",1,0

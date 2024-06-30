@@ -1,0 +1,5 @@
+Rule,Importance,In explanation
+"If `marital_status` is `Married`, then the likelihood of earning more than 50k increases.",4,1
+"If `education` is `Doctorate`, then the likelihood of earning more than 50k increases.",1,1
+"If `workclass` is `Self-Employed`, then the likelihood of earning more than 50k increases.",1,1
+"If `age` is significantly higher (e.g., 90), then the likelihood of earning more than 50k increases.",1,0

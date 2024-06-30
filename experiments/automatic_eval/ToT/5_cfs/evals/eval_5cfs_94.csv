@@ -1,0 +1,8 @@
+Rule,Importance,In explanation
+"If marital status changes from 'Divorced' to 'Married,' the income prediction may change from less than $50k to more than $50k.",1,1
+"If education level changes from 'Bachelors' to 'Masters,' the income prediction may change from less than $50k to more than $50k.",1,1
+"If gender changes from 'Female' to 'Male,' the income prediction may change from less than $50k to more than $50k.",3,0
+"If the number of hours worked per week increases significantly (e.g., from 40 to 59 or 91), the income prediction may change from less than $50k to more than $50k. Note: A slight decrease in hours worked (from 40 to 39) may also have a similar effect, suggesting sensitivity around the 40-hour mark.",3,1
+"If age increases significantly (e.g., from 45 to 87), the income prediction may change from less than $50k to more than $50k.",1,0
+Occupation in Sales leads to higher income.,1,0
+Being younger or older than 45 years increases the likelihood of earning more than $50k a year.,4,0

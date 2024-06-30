@@ -1,0 +1,2 @@
+Rule,Importance,In explanation
+"If a person who is ""Self-Employed,"" has ""Some-college"" education, is ""Married,"" works in the ""Service"" occupation, and works 50 hours per week, the model predicts they will not earn more than $50k per year. If the same person switches their occupation to ""Sales,"" the model predicts they will earn more than $50k per year.",1,1

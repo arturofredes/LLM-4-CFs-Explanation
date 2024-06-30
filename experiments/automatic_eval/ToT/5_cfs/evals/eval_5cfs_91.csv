@@ -1,0 +1,12 @@
+Rule,Importance,In explanation
+Higher Education Level (Masters or Doctorate) leads to a higher likelihood of earning more than $50k.,5,1
+"Occupation in ""White-Collar"" or ""Other/Unknown"" categories leads to a higher likelihood of earning more than $50k.",3,0
+"Working more hours per week (e.g., 44 or 65 hours) leads to a higher likelihood of earning more than $50k.",2,1
+"Higher Education: Achieving a higher education level (Bachelors, Masters) leads to higher income.",5,1
+Marital Status: Being married (compared to being divorced) can lead to higher income.,1,0
+Working More Hours: Working more hours per week (75 or 57 compared to 30) leads to higher income.,2,0
+Education Level: Individuals with a higher education level (Masters or Doctorate) are more likely to earn more than $50k a year.,5,1
+"Gender: Gender can influence the income prediction, with females in some counterfactuals having a positive outcome.",1,0
+Hours Per Week: Working more hours per week can increase the likelihood of earning more than $50k a year.,2,1
+Marital Status: Marital status can also play a role in income prediction.,1,0
+"Age: Age can be a factor, but its influence might be secondary to other features like education and hours worked.",1,0

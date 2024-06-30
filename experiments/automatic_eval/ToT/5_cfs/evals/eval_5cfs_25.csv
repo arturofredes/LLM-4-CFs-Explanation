@@ -1,0 +1,11 @@
+Rule,Importance,In explanation
+"Changing the occupation from Blue-Collar to another type (Other/Unknown, Professional, or Sales)",3,1
+Switching from Self-Employed to Government workclass,2,1
+Reducing the number of hours worked from 60 to 40,1,1
+Working a very low number of hours (9 hours) in a Government job,1,0
+Changing gender from Male to Female and education from Bachelors to School,1,0
+Moving from Blue-Collar to White-Collar or other professional occupations,3,1
+Working in Private or Government sectors compared to being Self-Employed,2,1
+Increasing hours worked per week,1,0
+"Changes in marital status, such as from Married to Widowed",1,0
+Advanced age (likely indicating significant experience) in a professional occupation,1,0

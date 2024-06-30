@@ -1,0 +1,12 @@
+Rule,Importance,In explanation
+Education level is upgraded from HS-grad to Bachelors or higher (Prof-school),5,0
+Workclass remains Self-Employed but education level is upgraded to Bachelors or higher,3,1
+Workclass changes to Private and education level is upgraded to Bachelors or higher,2,1
+Occupation changes to White-Collar or Other/Unknown and education level is upgraded to Bachelors or higher,3,1
+"Higher levels of education such as Prof-school, Masters, and Doctorate lead to higher income",4,0
+"Being Married and having a higher education level (Masters, Doctorate) can also lead to higher income",3,1
+Occupations like Sales and Other/Unknown combined with higher education can lead to higher income,3,1
+"Moving from HS-grad to higher education levels (e.g., Masters, Bachelors, Assoc, Prof-school) is associated with a positive income outcome",4,1
+Changing from Blue-Collar to Professional or White-Collar occupations is associated with a positive income outcome,3,0
+Changing from Self-Employed to Private sector employment can be associated with a positive income outcome,2,0
+"Changing race to Other from White in conjunction with a change in occupation (e.g., to White-Collar) is associated with a positive income outcome",1,0

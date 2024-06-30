@@ -1,0 +1,6 @@
+Rule,Criteria,Importance,In explanation
+Higher Education,<function <lambda> at 0x7f506138b370>,5,1
+Marital Status Flexibility,<function <lambda> at 0x7f506138b2e0>,5,0
+Occupation Adjustment,<function <lambda> at 0x7f504e804b80>,2,1
+Combined Factors,<function <lambda> at 0x7f504e804c10>,5,0
+Hours per Week,<function <lambda> at 0x7f504e804ca0>,4,0

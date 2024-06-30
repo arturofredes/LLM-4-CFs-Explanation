@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+If workclass is changed to 'Self-Employed' and education is 'Doctorate',1,0
+If education is changed to 'Prof-school' and occupation is 'Blue-Collar',1,0
+If education is changed to 'Bachelors' and gender is 'Female',1,0

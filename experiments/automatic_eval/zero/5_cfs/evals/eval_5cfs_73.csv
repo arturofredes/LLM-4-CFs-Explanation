@@ -1,0 +1,4 @@
+Rule,Importance,In explanation
+Change workclass from Private to Government,5,1
+"Age varies significantly (23, 52, 66, 80)",5,1
+"Hours per Week varies (28, 29, 30)",5,1

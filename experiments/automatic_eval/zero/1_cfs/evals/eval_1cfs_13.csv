@@ -1,0 +1,3 @@
+Rule,Importance,In explanation
+IF `workclass` is `Government` THEN more likely to earn more than $50k.,1,1
+IF `occupation` is `Service` THEN more likely to earn more than $50k.,1,1

@@ -1,0 +1,3 @@
+Rule,Importance,In explanation
+"If education level changes from ""Assoc"" to ""HS-grad"", then the income prediction changes from less than $50k to more than $50k per year.",1,1
+"If the age changes from 34 (with ""Assoc"" degree) to 42 (with ""Assoc"" degree), then the income prediction changes from less than $50k to more than $50k per year.",1,0

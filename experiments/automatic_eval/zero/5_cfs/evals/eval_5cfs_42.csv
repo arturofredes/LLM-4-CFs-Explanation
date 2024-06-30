@@ -1,0 +1,7 @@
+Rule,Importance,In explanation
+Age Rule: Being older than 24 increases the likelihood of earning more than $50k.,2,1
+Marital Status Rule: Being married or widowed increases the likelihood of earning more than $50k.,3,1
+"Education Level Rule: Higher education, such as professional schooling, can increase earnings potential.",1,0
+Occupation Rule: Both white-collar and certain service occupations can lead to higher earnings.,5,0
+Race Rule: Race does not appear to be a decisive factor on its own.,5,1
+"Hours Per Week Rule: Both higher and lower than 40 hours per week can be associated with higher earnings, indicating complex interactions with other factors.",2,1

@@ -1,0 +1,9 @@
+Rule,Importance,In explanation
+Marital Status: Being married as opposed to single significantly increases the likelihood of earning more than $50K a year.,5,1
+"Age: Counterfactuals include ages 29, 35, and 72 suggesting that age may play a role.",3,1
+Hours Per Week: Increasing the number of hours worked per week (from 40 to 70) can lead to a higher income.,1,1
+Education Level: Attaining higher education levels such as Doctorate or Prof-school leads to higher income.,2,1
+Occupation: Working in a White-Collar occupation rather than other types of occupations leads to higher income.,1,1
+"Hours Per Week: Working more hours per week (e.g., 73 hours) can lead to higher income.",1,1
+"Education Level: Having a higher education level, such as a Master’s degree, increases the likelihood of earning more than $50k.",1,1
+Age: Being relatively young (early to mid-20s) does not necessarily preclude earning more than $50k if other conditions are met.,4,1

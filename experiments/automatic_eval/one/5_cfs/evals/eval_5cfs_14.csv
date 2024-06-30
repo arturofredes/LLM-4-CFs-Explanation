@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+"Increased hours per week (e.g., 83, 82) lead to higher income.",2,1
+"Higher education levels (e.g., Prof-school) lead to higher income.",1,1
+Race categorized as 'Other' can lead to higher income.,3,1
+Gender being female can lead to higher income when hours worked are high.,0,0
+"Older age (e.g., 60 years) can lead to higher income.",1,0

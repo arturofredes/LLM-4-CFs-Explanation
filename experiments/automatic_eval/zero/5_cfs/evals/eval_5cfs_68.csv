@@ -1,0 +1,6 @@
+Rule,Importance,In explanation
+"Achieving higher education levels (Doctorate, Masters, Prof-school) is associated with earning more than $50k a year.",5,1
+"Marital status changes (Widowed, Divorced) or remaining Single with higher education can lead to a higher income.",5,0
+"Working in a ""Blue-Collar"" job with higher education or switching to ""Other/Unknown"" and ""White-Collar"" occupations can lead to a higher income.",5,0
+"Switching from the ""Private"" sector to ""Government"" with higher education can lead to a higher income.",5,1
+The number of hours worked per week (40 hours) is consistent and does not impact the income prediction significantly.,5,1
