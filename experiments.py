@@ -94,4 +94,4 @@ for i in range(test100.shape[0]):
         test100.loc[i, str(cf) + '_cfs_' +prompt + '_status'] = 1
     if i%10 == 0:
         test100.to_csv('experiments.csv', index=False)
-test100.to_csv(f'experiment_{prompt}_{cf}_cfs.csv', index=False)
+test100.to_csv(f'experiment_{prompt}_{cf}_cfs.csv', index=False) 
