@@ -1,4 +1,6 @@
 # LLMs for Exaplaining Sets of Counterfactual Examples to Final Users
+- **Paper:** [Using LLMs for Explaining Sets of Counterfactual Examples to Final Users]([https://arxiv.org/abs/1234.56789](https://arxiv.org/abs/2408.15133))
+- ** Presented at:** [2nd Workshop on Causal Inference and Machine Learning in Practice]([https://conference-website.org](https://causal-machine-learning.github.io/kdd2024-workshop/))
 ### Arturo Fredes & Jordi Vitrià 
 Counterfactual examples have shown to be a promising method for explaining a ma-
 chine learning model’s decisions, by providing the user with variants of its own data
