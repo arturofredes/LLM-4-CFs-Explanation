@@ -1,6 +1,6 @@
 # LLMs for Exaplaining Sets of Counterfactual Examples to Final Users
-- **Paper:** [Using LLMs for Explaining Sets of Counterfactual Examples to Final Users]([https://arxiv.org/abs/1234.56789](https://arxiv.org/abs/2408.15133))
-- ** Presented at:** [2nd Workshop on Causal Inference and Machine Learning in Practice]([https://conference-website.org](https://causal-machine-learning.github.io/kdd2024-workshop/))
+- **📄 Paper:** [Using LLMs for Explaining Sets of Counterfactual Examples to Final Users](https://arxiv.org/abs/2408.15133)
+- **📢 Presented at:** [2nd Workshop on Causal Inference and Machine Learning in Practice](https://causal-machine-learning.github.io/kdd2024-workshop/)
 ### Arturo Fredes & Jordi Vitrià 
 Counterfactual examples have shown to be a promising method for explaining a ma-
 chine learning model’s decisions, by providing the user with variants of its own data
@@ -33,10 +33,10 @@ pip install -r requirements.txt
 This notebook contains an example of a case that is predicted to earn less than 50k$ a year. In this notebook we go over all of the steps followed in order to generate an explanation and evaluating it.
 
 ## Train Notebook
-In this notebook we train a model to predict whether a person will earn more or less than 50k$. In here we also generate the file swith the data that we will have to read in other notebooks. This data is already included in the `data/` folder and the model in `models/` so there it is not strictly necessary to run this notebook.
+In this notebook we train a model to predict whether a person will earn more or less than 50k$. In here we also generate the file with the data that we will have to read in other notebooks. This data is already included in the `data/` folder and the model in `models/` so it is not strictly necessary to run this notebook.
 
 ## Experiments Notebook
 In here all the code and results for the experiments are included.
 
 ## German Credit Notebook
-In thos notebook we preprocessed data of the german credit dataset, trained a classifier and generated explanations from some selected cases that will be shown to subjects.
+In this notebook we preprocessed data of the german credit dataset, trained a classifier and generated explanations from some selected cases that will be shown to subjects.
