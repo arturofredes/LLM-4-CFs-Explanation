@@ -159,3 +159,30 @@ def string_info(variable_list, info):
     for i in range(len(variable_list)):
         string += construct_variable(variable_list,info,i) + '\n'
     return string
+
+
+def get_german_credit_data_info():
+    """Feature descriptions for the Statlog German Credit (translated labels) dataset."""
+    return {
+        "Status of existing checking account": "Balance of the applicant's checking account at the bank.",
+        "Duration": "Loan duration in months.",
+        "Credit history": "Past credit behavior (paid duly, delays, critical account, etc.).",
+        "Purpose": "Purpose of the credit (car, furniture, business, education, etc.).",
+        "Credit amount": "Amount of the credit in DM.",
+        "Savings account/bonds": "Savings account balance or bonds.",
+        "Present employment since": "Time in current employment.",
+        "Installment rate in percentage of disposable income": "Installment payments as a percentage of disposable income.",
+        "Personal status and sex": "Personal status and sex category.",
+        "Other debtors / guarantors": "Whether there are co-applicants or guarantors.",
+        "Present residence since": "Years at current address.",
+        "Property": "Most valuable property owned (real estate, car, unknown, etc.).",
+        "Age": "Age in years.",
+        "Other installment plans": "Other installment plans from banks or stores.",
+        "Housing": "Housing situation (rent, own, for free).",
+        "Number of existing credits at this bank": "Number of existing credits at this bank.",
+        "Job": "Employment skill level / job type.",
+        "Number of people being liable to provide maintenance for": "Number of dependents the applicant must support.",
+        "Telephone": "Whether the customer is listed under their name in the telephone directory.",
+        "Foreign worker": "Whether the applicant is a foreign worker.",
+        "class": "Credit risk label: 1 = good credit, 0 = bad credit.",
+    }

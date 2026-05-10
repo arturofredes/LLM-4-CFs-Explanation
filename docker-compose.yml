@@ -1,0 +1,24 @@
+# Income Predictor demo — Streamlit on http://localhost:8501
+#
+# Copy .env.example to .env and set API keys, then:
+#   docker compose up --build
+#
+# Open http://localhost:8501
+#
+# Variables from .env are injected into the container process environment (OpenAI / Gemini).
+# If `docker compose` complains that .env is missing, run:  cp .env.example .env
+#
+# Gemini-only OpenAI stack: set build arg INSTALL_GEMINI=false in `build.args` below.
+
+services:
+  demo:
+    build: .
+    image: llm-cfs-explanation-demo:latest
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    environment:
+      # Explicit defaults if .env is missing (keys still required at runtime for LLM calls)
+      STREAMLIT_SERVER_HEADLESS: "true"
+    restart: unless-stopped

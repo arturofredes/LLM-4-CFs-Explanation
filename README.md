@@ -21,14 +21,53 @@ is currently being done in order to evaluate the understanding and satisfaction 
 the users.
 
 ## Setup
-You will neead an Open AI API key in your environment variables.
+
+### API keys
+
+The Streamlit demo can call **OpenAI** or **Google Gemini** (set the provider in the app). Put keys in a `.env` file in the project root, or export them in your shell:
+
 ```
-OPENAI_API_KEY = your_key
+OPENAI_API_KEY=your_openai_key
+GOOGLE_API_KEY=your_google_ai_studio_key
 ```
-Install necessary packages
+
+For Gemini-only use, `GOOGLE_API_KEY` (or `GEMINI_API_KEY`) is enough. For OpenAI, set `OPENAI_API_KEY`.
+
+### Local install (without Docker)
+
 ```
 pip install -r requirements.txt
+streamlit run demo.py
 ```
+
+### Run with Docker
+
+The repo includes a `Dockerfile` and `docker-compose.yml` that build a small image and run the Streamlit app on port **8501**.
+
+1. **Prepare files**  
+   Ensure `data/` and `models/` are present (trained pickles such as `models/loan_model.pkl` and `models/german_credit_model.pkl`, plus the CSVs under `data/`). The image copies these into the container at build time.
+
+2. **Create `.env`** in the same directory as `docker-compose.yml`, with at least the key for the LLM provider you will use (see API keys above). Compose loads this file automatically.
+
+3. **Build and start** from the repository root:
+
+   ```bash
+   docker compose up --build
+   ```
+
+4. **Open the app** in a browser: [http://localhost:8501](http://localhost:8501).
+
+5. **Stop** the stack: press `Ctrl+C` in the terminal, or run `docker compose down` from another shell in the same directory.
+
+If port 8501 is already in use, change the host mapping in `docker-compose.yml` (for example `"8502:8501"`) and open `http://localhost:8502` instead.
+
+To build and run without Compose (after creating `.env` or passing `-e` flags):
+
+```bash
+docker build -t llm-cfs-explanation-demo .
+docker run --rm -p 8501:8501 --env-file .env llm-cfs-explanation-demo
+```
+
 ## Example Notebook
 This notebook contains an example of a case that is predicted to earn less than 50k$ a year. In this notebook we go over all of the steps followed in order to generate an explanation and evaluating it.
 
