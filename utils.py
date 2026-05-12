@@ -186,3 +186,21 @@ def get_german_credit_data_info():
         "Foreign worker": "Whether the applicant is a foreign worker.",
         "class": "Credit risk label: 1 = good credit, 0 = bad credit.",
     }
+
+
+def get_loan_data_info():
+    """Feature descriptions for the loan approval dataset (Home Credit / Loan prediction style)."""
+    return {
+        "Gender": "Applicant gender.",
+        "Married": "Whether the applicant is married.",
+        "Dependents": "Number of dependents (0, 1, 2, 3+ encoded as in the training data).",
+        "Education": "Education level (Graduate / Not Graduate).",
+        "Self_Employed": "Whether the applicant is self-employed.",
+        "ApplicantIncome": "Applicant's monthly income.",
+        "CoapplicantIncome": "Co-applicant's monthly income (0 if none).",
+        "LoanAmount": "Requested loan amount (in thousands, as in the source data).",
+        "Loan_Amount_Term": "Loan repayment term in months.",
+        "Credit_History": "Credit history meets guidelines: 1 = yes, 0 = no / unknown.",
+        "Property_Area": "Property location type (Urban, Semiurban, Rural).",
+        "class": "Loan decision label: 1 = approved, 0 = denied.",
+    }

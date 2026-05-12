@@ -45,7 +45,7 @@ streamlit run demo.py
 The repo includes a `Dockerfile` and `docker-compose.yml` that build a small image and run the Streamlit app on port **8501**.
 
 1. **Prepare files**  
-   Ensure `data/` and `models/` are present (trained pickles such as `models/loan_model.pkl` and `models/german_credit_model.pkl`, plus the CSVs under `data/`). The image copies these into the container at build time.
+   Ensure `data/` and `models/` are present (trained pickles such as `models/adult_model.pkl` and `models/german_credit_model.pkl`, plus the CSVs under `data/`). The image copies these into the container at build time.
 
 2. **Create `.env`** in the same directory as `docker-compose.yml`, with at least the key for the LLM provider you will use (see API keys above). Compose loads this file automatically.
 

@@ -37,10 +37,26 @@ GERMAN_CONTINUOUS_FEATURES = [
     "Number of people being liable to provide maintenance for",
 ]
 
+LOAN_CATEGORICAL_COLS = [
+    "Gender",
+    "Married",
+    "Education",
+    "Self_Employed",
+    "Credit_History",
+    "Property_Area",
+]
+LOAN_CONTINUOUS_FEATURES = [
+    "Dependents",
+    "ApplicantIncome",
+    "CoapplicantIncome",
+    "LoanAmount",
+    "Loan_Amount_Term",
+]
+
 
 @st.cache_resource
 def load_adult_bundle():
-    with open("./models/loan_model.pkl", "rb") as file:
+    with open("./models/adult_model.pkl", "rb") as file:
         model = pickle.load(file)
     train_dataset = pd.read_csv("./data/adult_train_dataset.csv")
     test_dataset = pd.read_csv("./data/adult_test_dataset.csv")
@@ -86,6 +102,32 @@ def load_german_bundle():
         "positive_prediction_message": "This applicant is predicted to have good credit; counterfactual explanations are only generated for the negative class.",
         "page_title": "Credit risk predictor 🏦",
         "german_cat_options": cat_options,
+    }
+
+
+@st.cache_resource
+def load_loan_bundle():
+    with open("./models/loan_model.pkl", "rb") as file:
+        model = pickle.load(file)
+    train_dataset = pd.read_csv("./data/loan_train_dataset.csv")
+    test_dataset = pd.read_csv("./data/loan_test_dataset.csv")
+    dataset_info = string_info(train_dataset.columns, get_loan_data_info())
+    cat_options = {
+        c: sorted(train_dataset[c].astype(str).unique().tolist())
+        for c in LOAN_CATEGORICAL_COLS
+    }
+    return {
+        "key": "loan",
+        "model": model,
+        "train_dataset": train_dataset,
+        "test_dataset": test_dataset,
+        "continuous_features": LOAN_CONTINUOUS_FEATURES,
+        "outcome_name": "class",
+        "model_description": "ML system that predicts whether a loan application is approved or denied",
+        "dataset_info": dataset_info,
+        "positive_prediction_message": "This applicant is predicted to have the loan approved; counterfactual explanations are only generated for the negative class.",
+        "page_title": "Loan approval predictor 🏠",
+        "loan_cat_options": cat_options,
     }
 
 
@@ -228,13 +270,29 @@ def _render_explain_result(bundle, exp_m, prompt_type):
 
 
 def main():
+    _dataset_options = (
+        "Adult — income prediction",
+        "German credit — credit risk",
+        "Loan — loan approval",
+    )
     dataset_label = st.sidebar.selectbox(
         "Dataset",
-        ("Adult — income prediction", "German credit — credit risk"),
-        help="Switch between the Adult census income task and the Statlog German Credit dataset.",
+        _dataset_options,
+        help="Switch between Adult census income, Statlog German Credit, and the loan approval task.",
     )
-    bundle_key = "adult" if dataset_label.startswith("Adult") else "german"
-    bundle = load_adult_bundle() if bundle_key == "adult" else load_german_bundle()
+    if dataset_label == _dataset_options[0]:
+        bundle_key = "adult"
+    elif dataset_label == _dataset_options[1]:
+        bundle_key = "german"
+    else:
+        bundle_key = "loan"
+
+    if bundle_key == "adult":
+        bundle = load_adult_bundle()
+    elif bundle_key == "german":
+        bundle = load_german_bundle()
+    else:
+        bundle = load_loan_bundle()
 
     if st.session_state.get("_demo_dataset") != bundle_key:
         st.session_state["_demo_dataset"] = bundle_key
@@ -332,7 +390,7 @@ def main():
                             "hours_per_week": [int(hours_per_week)],
                         }
                     )
-        else:
+        elif bundle_key == "german":
             train = bundle["train_dataset"]
             opts = bundle["german_cat_options"]
             cur = st.session_state["data"].iloc[0].to_dict()
@@ -363,6 +421,60 @@ def main():
                     st.session_state["data"] = pd.DataFrame(
                         {c: [values[c]] for c in feature_order}
                     )
+        else:
+            train = bundle["train_dataset"]
+            opts = bundle["loan_cat_options"]
+            cur = st.session_state["data"].iloc[0].to_dict()
+            feature_order = [c for c in train.columns if c != bundle["outcome_name"]]
+
+            with st.form("data_form_loan"):
+                values = {}
+                for col in feature_order:
+                    if col in LOAN_CONTINUOUS_FEATURES:
+                        if col == "Dependents":
+                            lo = int(train[col].min())
+                            hi = int(train[col].max())
+                            default = int(cur[col])
+                            values[col] = st.number_input(
+                                col, min_value=lo, max_value=hi, value=default, key=f"l_{col}"
+                            )
+                        else:
+                            lo = float(train[col].min())
+                            hi = float(train[col].max())
+                            default = float(cur[col])
+                            values[col] = st.number_input(
+                                col,
+                                min_value=lo,
+                                max_value=hi,
+                                value=default,
+                                step=0.01 if col == "CoapplicantIncome" else 1.0,
+                                key=f"l_{col}",
+                            )
+                    else:
+                        choices = opts[col]
+                        default_v = str(cur[col])
+                        idx = choices.index(default_v) if default_v in choices else 0
+                        values[col] = st.selectbox(
+                            col, choices, index=idx, key=f"l_{col}"
+                        )
+
+                submitted_data = st.form_submit_button(
+                    "Save Data", use_container_width=True
+                )
+                if submitted_data:
+                    row = {}
+                    for c in feature_order:
+                        v = values[c]
+                        if c in LOAN_CONTINUOUS_FEATURES:
+                            if c == "Dependents":
+                                row[c] = [int(v)]
+                            else:
+                                row[c] = [float(v)]
+                        elif c == "Credit_History":
+                            row[c] = [float(v)]
+                        else:
+                            row[c] = [v]
+                    st.session_state["data"] = pd.DataFrame(row)
 
     with st.expander("Parameters"):
         with st.form("param_form"):
@@ -527,7 +639,7 @@ def main():
                         + "</div>",
                         unsafe_allow_html=True,
                     )
-            else:
+            elif bundle_key == "german":
                 if classif == 1:
                     st.markdown(
                         '<div class="green-box">'
@@ -539,6 +651,21 @@ def main():
                     st.markdown(
                         '<div class="red-box">'
                         + "This applicant is predicted to have bad credit"
+                        + "</div>",
+                        unsafe_allow_html=True,
+                    )
+            else:
+                if classif == 1:
+                    st.markdown(
+                        '<div class="green-box">'
+                        + "This applicant is predicted to have the loan approved"
+                        + "</div>",
+                        unsafe_allow_html=True,
+                    )
+                else:
+                    st.markdown(
+                        '<div class="red-box">'
+                        + "This applicant is predicted to have the loan denied"
                         + "</div>",
                         unsafe_allow_html=True,
                     )
