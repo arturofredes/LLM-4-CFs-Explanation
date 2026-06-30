@@ -12,8 +12,8 @@ from dotenv import load_dotenv
 # Load variables from a .env file in the project root (this file's directory).
 load_dotenv(Path(__file__).resolve().parent / ".env")
 
-from prompts import *
-from utils import *
+from src.prompts.prompts import *
+from src.utils.utils import *
 
 
 def _resolve_google_api_key(explicit: Optional[str] = None) -> str:

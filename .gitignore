@@ -3,3 +3,7 @@ adult.zip
 /__pycache__
 /temp_files
 temp_code
+__pycache__/
+*.pyc
+.env
+temp_files/

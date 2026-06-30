@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 from dice_ml.utils import helpers
 
-from llm_explainers import *
+from src.explainers.llm_explainers import *
 
 st.set_page_config(layout="wide")
 
