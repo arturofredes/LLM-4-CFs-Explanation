@@ -20,7 +20,7 @@ tuals as well as the quality of the content. Furthermore, an experiment with peo
 is currently being done in order to evaluate the understanding and satisfaction of
 the users.
 
-![diagram](https://github.com/arturofredes/LLM-4-CFs-Explanation/blob/main/docs/diagram.png)
+![diagram](docs/diagram.png)
 
 ## Setup
 
